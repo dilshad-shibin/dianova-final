@@ -17,6 +17,7 @@
 :: 15.0 REPORTING AREA CSS
 :: 16.0 TESTIMONIALS AREA CSS
 :: 17.0 CONTACT BANNER AREA CSS
+:: 18.0 ABOUT PAGE AREA CSS
 ****************************** */
 
 /* ******************************
@@ -1718,5 +1719,274 @@ footer{
 }
 
 /* ******************************
-:: 18.0  AREA CSS
+:: 18.0 ABOUT PAGE AREA CSS
+****************************** */
+/* Breadcrumb area */
+.breadcrumb-area{
+    background-image: url(../img/bg/breadcrumb-ng.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 430px;
+}
+
+.bread-head{
+    display: flex;
+    align-items: center;
+    height: 430px;
+}
+
+.bread-head h1{
+    color: #fff;
+    font-size: 65px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+/* About content area */
+.about-content-area{
+    position: relative;
+}
+
+.content-area p{
+    color: #444444;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    word-spacing: 3px;
+}
+
+.content-area p:nth-child(1),
+.content-area p:nth-child(2){
+    margin-bottom: 35px;
+}
+
+/* About counter Box */
+.about-counting{
+    background-color: #32358d;
+    padding: 180px 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.count-bg-bottom{
+    background-image: url(../img/bg/about-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 430px;
+    position: absolute;
+    bottom: -70px;
+    left: 0;
+    width: 100%;
+}
+
+.counter-bx{
+    padding: 20px;
+}
+
+.counter-bx .head-count{
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.counter-bx .head-count h2{
+    color: #fff;
+    position: relative;
+    font-weight: 500;
+    margin-bottom: 0px;
+    font-size: 42px;
+    line-height: 1;
+}
+
+.counter-bx .head-count span{
+    color: #fff;
+    position: relative;
+    font-weight: 600;
+    margin-bottom: 0px;
+    font-size: 42px;
+    line-height: 1;
+}
+
+.counter-bx p{
+    color: #fff;
+    font-size: 21px;
+    letter-spacing: 1px;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+}
+
+.counter-bx p::before{
+    position: absolute;
+    content: "";
+    background-color: #f58220;
+    height: 2px;
+    width: 75%;
+    left: 0;
+    bottom: -20px;
+}
+
+.contact-banner2{
+    padding: 125px 0 100px;
+}
+
+/* Board of Directors */
+.directors-area{
+    padding: 70px 0 50px;
+}
+
+.director-head h2{
+    color: #191b16;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.director-head h2 span{
+    color: #f58220;
+    font-weight: 400;
+}
+
+.director-box{
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.drimg{
+    margin-bottom: 15px;
+}
+
+.dr-details span{
+    color: #f58220;
+    font-weight: 600;
+}
+
+.dr-details h3{
+    color: #191b16;
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.dr-details p{
+    color: #191b16;
+    font-weight: 400;
+    margin: 0;
+    font-size: 15px;
+}
+
+/* Our Team */
+.our-team{
+    padding: 40px 0 20px;
+    background-image: url(../img/bg/team-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.team-details{
+    margin-bottom: 60px;
+}
+
+.team-details h3{
+    color: #191b16;
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.team-details p{
+    color: #191b16;
+    font-weight: 400;
+    margin: 0;
+    font-size: 15px;
+}
+
+.team-details span{
+    color: #f58220;
+    font-weight: 600;
+}
+
+.pl-28{
+    padding-left: 28px;
+}
+
+/* Policy Area */
+.policy-area{
+    padding-bottom: 70px ;
+}
+
+.policy-head h1{
+    color: #191b16;
+    font-weight: 700;
+    margin-bottom: 40px;
+    font-size: 48px;
+}
+
+.policy-text p{
+    color: #f58220;
+    font-size: 25px;
+    line-height: 35px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.quality-box,
+.focus-box{
+    flex: 0 0 50%;
+}
+
+.quality-box{
+    background-color: #f0f4fb;
+    padding: 70px 30px 70px 252px;
+}
+
+.focus-box{
+    background-color: #fff3e5;
+    padding: 70px 280px 70px 60px;
+}
+
+.quality-box .head h1,
+.focus-box .head h1{
+    color: #222f4b;
+    font-weight: 800;
+    font-size: 34px;
+    margin-bottom: 30px;
+}
+
+.quality-box .head h1 span,
+.focus-box .head h1 span{
+    color: #f58220;
+    font-weight: 500;
+}
+
+.quality-box .text ul li,
+.focus-box .text p{
+    font-size: 20px;
+    color: #878b92;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.quality-box .text ul li .img-dtb {
+    margin-right: 0px;
+    flex: 0 0 3%;
+}
+
+.quality-box .text ul li{
+    margin-bottom: 20px;
+}
+
+.focus-box .text p{
+    line-height: 32px;
+}
+
+.focus-box .text p:nth-child(1){
+    margin-bottom: 35px;
+}
+
+
+
+/* ******************************
+:: 19.0 PAGE AREA CSS
 ****************************** */
