@@ -17,10 +17,10 @@
             <nav>
                 <ul class="navbar-nav" id="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="about.html" class="nav-link">About us</a>
+                        <a href="about.php" class="nav-link">About us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="services.html">Services</a>
