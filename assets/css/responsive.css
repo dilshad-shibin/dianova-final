@@ -1282,4 +1282,10 @@
     .director-head h2{
         line-height: 1.2;
     }
+    .service-ct-head p{
+        font-size: 18px;
+    }
+    .service-wrapper{
+        padding-left: 0;
+    }
 }

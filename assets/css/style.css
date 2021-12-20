@@ -19,6 +19,7 @@
 :: 17.0 CONTACT BANNER AREA CSS
 :: 18.0 ABOUT PAGE AREA CSS
 :: 19.0 SERVICES PAGE AREA CSS
+:: 20.0 SINGLE SERVICE PAGE AREA CSS
 ****************************** */
 
 /* ******************************
@@ -1991,7 +1992,6 @@ footer{
 /* ******************************
 :: 19.0 SERVICES PAGE AREA CSS
 ****************************** */
-/* service content */
 .service-ct-head{
     position: relative;
     margin-bottom: 75px;
@@ -2082,6 +2082,95 @@ footer{
 
 .service-ct-box .btn-service a:hover{
     letter-spacing: 1px;
+}
+
+/* *********************************
+:: 20.0 SINGLE SERVICE PAGE AREA CSS
+************************************* */
+.service-sidebar{
+    margin-bottom: 50px;
+    color: #fff;
+    padding: 60px 50px;
+    background-color: #f58220;
+}
+
+.service-sidebar h3{
+    margin-bottom: 40px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.service-sidebar h3::before{
+    content: "";
+    position: absolute;
+    height: 3px;
+    width: 35px;
+    border-radius: 10px;
+    background-color: #fff;
+    left: 0;
+    bottom: -14px;
+}
+
+.service-sidebar ul li{
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.service-sidebar ul li:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+.service-sidebar ul li a {
+    color: #fff;
+    font-size: 18px;
+    transition: all .2s;
+}
+
+.service-sidebar ul li a svg{
+    /* display: none; */
+    transition: all .3s ease;
+}
+
+.service-sidebar ul li:hover a svg{
+    display: inline-block !important;
+    /* transition: all .3s ease; */
+}
+
+.service-sidebar ul li:hover a{
+    letter-spacing: 1px;
+}
+
+.service-wrapper{
+    padding-left: 70px;
+}
+
+.service-thumbnail{
+    margin-bottom: 50px;
+}
+
+.service-wrapper h2{
+    color: #191b16;
+    font-weight: 700;
+    margin-bottom: 30px;
+    font-size: 45px;
+}
+
+.service-wrapper .text{
+    margin-bottom: 30px;
+}
+
+.service-wrapper .text p{
+    color: #111359;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.service-wrapper .text p:nth-child(1){
+    margin-bottom: 35px;
 }
 
 /* ******************************
