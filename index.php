@@ -90,7 +90,7 @@
                                 and Histopathology. </p>
                         </div>
                         <div class="about-btn">
-                            <a href="#">Read More <i class="fas fa-chevron-right"></i></a>
+                            <a href="about.php">Read More <i class="fas fa-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                                 <h2>Our Services</h2>
                                 <p>With the rise in health-consciousness among the society, there has been an exponential growth in the number of diagnostic laboratories. Dianova aims to stand out among them with our quality services ensuring minimum TAT.</p>
                                 <div class="service-btn">
-                                    <a href="service.html">View all Services</a>
+                                    <a href="services.php">View all Services</a>
                                 </div>
                             </div><!-- first one right side view -->
 
@@ -116,7 +116,7 @@
                                 <h2>Biochemistry</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="biochemistry.php">Read More</a>
                                 </div>
                             </div><!-- First right side view -->
 
@@ -124,7 +124,7 @@
                                 <h2>Serology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="serology.php">Read More</a>
                                 </div>
                             </div><!-- second right side view -->
 
@@ -132,7 +132,7 @@
                                 <h2>Microbiology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="microbiology.php">Read More</a>
                                 </div>
                             </div><!-- third right side view -->
 
@@ -140,7 +140,7 @@
                                 <h2>Cytopathology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="cytopathology.php">Read More</a>
                                 </div>
                             </div><!-- 4th right side view -->
 
@@ -148,7 +148,7 @@
                                 <h2>Radiology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="radiology.php">Read More</a>
                                 </div>
                             </div><!-- 5th right side view -->
 
@@ -156,7 +156,7 @@
                                 <h2>Endocrinology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="endocrinology.php">Read More</a>
                                 </div>
                             </div><!-- 6th right side view -->
 
@@ -164,7 +164,7 @@
                                 <h2>Doppler Ultrasound</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="doppler-ultrasound.php">Read More</a>
                                 </div>
                             </div><!-- 7th right side view -->
 
@@ -172,7 +172,7 @@
                                 <h2>Prenetal Screening</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="prenatal-screening.php">Read More</a>
                                 </div>
                             </div><!-- 8th right side view -->
 
@@ -180,7 +180,7 @@
                                 <h2>Allergy Profiles</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="allergy-profiles.php">Read More</a>
                                 </div>
                             </div><!-- 9th right side view -->
 
@@ -188,7 +188,7 @@
                                 <h2>Imaging (Advanced 4D)</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="imaging-ultrasound-scanning.php">Read More</a>
                                 </div>
                             </div><!-- 10th right side view -->
 
@@ -196,7 +196,7 @@
                                 <h2>Histopathology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="histopathology.php">Read More</a>
                                 </div>
                             </div><!-- 11th right side view -->
 
@@ -204,7 +204,7 @@
                                 <h2>Clinical Pathology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="clinical-pathology.php">Read More</a>
                                 </div>
                             </div><!-- 12th right side view -->
 
@@ -212,7 +212,7 @@
                                 <h2>Hematology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="hematology.php">Read More</a>
                                 </div>
                             </div><!-- 13th right side view -->
 
@@ -220,7 +220,7 @@
                                 <h2>Clinical Chemistry</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="clinical-chemistry.php">Read More</a>
                                 </div>
                             </div><!-- 14th right side view -->
 
@@ -228,7 +228,7 @@
                                 <h2>Immunoassay</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="immunoassay.php">Read More</a>
                                 </div>
                             </div><!-- 15th right side view -->
 
@@ -236,7 +236,7 @@
                                 <h2>Molecular Biology</h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
                                 <div class="service-btn">
-                                    <a href="#">Read More</a>
+                                    <a href="molecular-biology.php">Read More</a>
                                 </div>
                             </div><!-- 16th right side view -->
                             

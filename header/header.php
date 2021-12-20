@@ -1,7 +1,7 @@
 <!-- ***** Header Start ***** -->
 <header class="navbar navbar-sticky navbar-expand-lg navbar-dark">
     <div class="container position-relative">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
             <img class="navbar-brand-regular" src="assets/img/logo/dianova-logo.png" alt="brand-logo">
             <img class="navbar-brand-sticky" src="assets/img/logo/dianova-logo.png" alt="sticky brand-logo">
         </a>
@@ -23,7 +23,7 @@
                         <a href="about.php" class="nav-link">About us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
+                        <a class="nav-link" href="services.php">Services</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="packages.html">Packages</a>

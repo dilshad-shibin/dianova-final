@@ -8,27 +8,26 @@
                     <h3>Services</h3>
                     <div class="footer-menu-area d-flex">
                         <ul>
-                            <li><a href="#">Biochemistry</a></li>
-                            <li><a href="#">Cytopathology</a></li>
-                            <li><a href="#">Doppler Ultrasound</a></li>
-                            <li><a href="#">Serology</a></li>
-                            <li><a href="#">Radiology</a></li>
-                            <li><a href="#">Prenatal Screening</a></li>
+                            <li><a href="biochemistry.php">Biochemistry</a></li>
+                            <li><a href="cytopathology.php">Cytopathology</a></li>
+                            <li><a href="doppler-ultrasound.php">Doppler Ultrasound</a></li>
+                            <li><a href="serology.php">Serology</a></li>
+                            <li><a href="radiology.php">Radiology</a></li>
+                            <li><a href="prenatal-screening.php">Prenatal Screening</a></li>
                         </ul>
                         <ul>
-                            <li><a href="#">Microbiology</a></li>
-                            <li><a href="#">Endocrinology</a></li>
-                            <li><a href="#">Allergy Profiles</a></li>
-                            <li><a href="#">Imaging</a></li>
-                            <li><a href="#">(Advanced 4D Ultrasound Scanning)</a></li>
-                            <li><a href="#">Histopathology</a></li>
+                            <li><a href="microbiology.php">Microbiology</a></li>
+                            <li><a href="endocrinology.php">Endocrinology</a></li>
+                            <li><a href="allergy-profiles.php">Allergy Profiles</a></li>
+                            <li><a href="imaging-ultrasound-scanning.php">Imaging (Advanced 4D Ultrasound Scanning)</a></li>
+                            <li><a href="histopathology.php">Histopathology</a></li>
                         </ul>
                         <ul class="third-ul">
-                            <li><a href="#">Clinical Pathology</a></li>
-                            <li><a href="#">Hematology</a></li>
-                            <li><a href="#">Clinical Chemistry</a></li>
-                            <li><a href="#">Immunoassay</a></li>
-                            <li><a href="#">Molecular Biology</a></li>
+                            <li><a href="clinical-pathology.php">Clinical Pathology</a></li>
+                            <li><a href="hematology.php">Hematology</a></li>
+                            <li><a href="clinical-chemistry.php">Clinical Chemistry</a></li>
+                            <li><a href="immunoassay.php">Immunoassay</a></li>
+                            <li><a href="molecular-biology.php">Molecular Biology</a></li>
                         </ul>
                     </div>
                 </div>
@@ -38,7 +37,7 @@
                     <h3>Links</h3>
                     <div class="footer-menu-area">
                         <ul>
-                            <li><a href="#">About Us</a></li>
+                            <li><a href="about.php">About Us</a></li>
                             <li><a href="#">Packages</a></li>
                             <li><a href="#">Specialities</a></li>
                             <li><a href="#">Careers</a></li>

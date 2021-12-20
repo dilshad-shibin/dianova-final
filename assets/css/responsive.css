@@ -1014,6 +1014,15 @@
     .ct-bx-btns .bx-two .num a{
         font-size: 25px;
     }
+    .qulaity-area{
+        flex-direction: column;
+    }
+    .quality-box{
+        padding: 70px 280px 70px 60px;
+    }
+    .quality-box .text ul li {
+        margin-bottom: 15px;
+    }
 }
 
 @media(max-width: 991px){
@@ -1089,6 +1098,15 @@
     .ft-address p{
         font-size: 22px;
         line-height: 1.5;
+    }
+    .counter-bx{
+        margin-bottom: 20px;
+    }
+    .about-counting{
+        padding: 100px 0;
+    }
+    .team-details.pl-28{
+        padding-left: 0;
     }
 }
 
@@ -1245,5 +1263,23 @@
     }
     .testi-head p{
         font-size: 24px;
+    }
+    .bread-head{
+        height: 230px;
+    }
+    .team-details {
+        margin-bottom: 30px;
+    }
+    .policy-head h1{
+        font-size: 42px;
+    }
+    .policy-text p{
+        font-size: 20px;
+    }
+    .quality-box, .focus-box{
+        padding: 70px 30px 70px 30px;
+    }
+    .director-head h2{
+        line-height: 1.2;
     }
 }

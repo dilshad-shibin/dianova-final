@@ -51,7 +51,7 @@
             <div class="count-bg-bottom"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-bx">
                             <div class="head-count">
                                 <h2 class="counter">20000</h2>
@@ -60,7 +60,7 @@
                             <p>Happy Patients</p>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-bx">
                             <div class="head-count">
                                 <h2 class="counter">129</h2>
@@ -69,7 +69,7 @@
                             <p>Qualified Doctors</p>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-bx">
                             <div class="head-count">
                                 <h2 class="counter">850</h2>
@@ -78,7 +78,7 @@
                             <p>Clinic Rooms</p>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-bx">
                             <div class="head-count">
                                 <h2 class="counter">456</h2>

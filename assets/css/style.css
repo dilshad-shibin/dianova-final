@@ -18,6 +18,7 @@
 :: 16.0 TESTIMONIALS AREA CSS
 :: 17.0 CONTACT BANNER AREA CSS
 :: 18.0 ABOUT PAGE AREA CSS
+:: 19.0 SERVICES PAGE AREA CSS
 ****************************** */
 
 /* ******************************
@@ -1878,7 +1879,7 @@ footer{
 
 /* Our Team */
 .our-team{
-    padding: 40px 0 20px;
+    padding: 65px 0 40px;
     background-image: url(../img/bg/team-bg.jpg);
     background-size: cover;
     background-position: center;
@@ -1988,5 +1989,101 @@ footer{
 
 
 /* ******************************
-:: 19.0 PAGE AREA CSS
+:: 19.0 SERVICES PAGE AREA CSS
+****************************** */
+/* service content */
+.service-ct-head{
+    position: relative;
+    margin-bottom: 75px;
+}
+
+.service-ct-head h1{
+    color: #191b16;
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 45px;
+}
+
+.service-ct-head p{
+    color: #111359;
+    font-weight: 600;
+    font-size: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
+.service-ct-box{
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 35px;
+}
+
+.service-ct-box .img{
+    position: relative;
+    width: 100%;
+    border: 1px solid transparent;
+    overflow: hidden;
+}
+
+.service-ct-box .img img{
+    width: 100%;
+    display: block;
+    transition: all .3s;
+    border: 1px solid transparent;
+}
+
+.service-ct-box .img:hover img{
+    transform: scale(1.1, 1.1);
+    transition: 0.5s;
+}
+
+.service-ct-box .text h3{
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #191b16;
+    margin-top: 20px;
+}
+
+.service-ct-box .text h3 a{
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #191b16;
+    margin-top: 20px;
+    transition: all .3s ease;
+}
+
+.service-ct-box .text h3 a:hover{
+    color: #f58220;
+}
+
+.service-ct-box .text p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #707070;
+    margin-top: 10px;
+    padding-bottom: 8px;
+}
+
+.service-ct-box .btn-service a{
+    color: #f58220;
+    font-weight: 400;
+    font-size: 16px;
+    transition: all .3s ease;
+}
+
+.service-ct-box .btn-service a svg{
+    margin-left: 5px;
+    position: relative;
+    top: 2px;
+}
+
+.service-ct-box .btn-service a:hover{
+    letter-spacing: 1px;
+}
+
+/* ******************************
+:: 20.0  PAGE AREA CSS
 ****************************** */
