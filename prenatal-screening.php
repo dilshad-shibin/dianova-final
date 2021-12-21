@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Prenatal Screening</h1>
                         </div>
                     </div>
                 </div>
@@ -39,11 +39,11 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
                                 <li><a href="radiology.php"><i class="fas fa-angle-right"></i> Radiology</a></li>
-                                <li><a href="prenatal-screening.php"><i class="fas fa-angle-right"></i> Prenatal Screening</a></li>
                                 <li><a href="microbiology.php"><i class="fas fa-angle-right"></i> Microbiology</a></li>
                                 <li><a href="endocrinology.php"><i class="fas fa-angle-right"></i> Endocrinology</a></li>
                                 <li><a href="allergy-profiles.php"><i class="fas fa-angle-right"></i> Allergy Profiles</a></li>
@@ -60,12 +60,12 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/prenetal-screening-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Prenatal Screening</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Prenatal screening is a way for you to determine the chance your baby may or may not have trisomy 21 (Down syndrome) or trisomy 18. Anyone may have a pregnancy with trisomy 21 or trisomy 18, regardless of their family history. This chance increases with the age of the mother (or the age of the egg donor). Sometimes prenatal screening can tell you about the chance for other genetic conditions, such as trisomy 13 and sex chromosome differences. Prenatal screening poses no risk to the pregnancy as it involves ultrasound and blood work. Prenatal screening is not diagnostic.  Only diagnostic testing, such as chorionic villus sampling or amniocentesis, can give you a “yes” or “no” answer about trisomy 21 and trisomy 18 during the pregnancy. Prenatal screening is available to all pregnant individuals.</p>
+                                <p>DIANOVA offers prenatal screening procedures in its specialty immunoassay laboratory which includes First Trimester screening (Dual Marker test, Triple Screen Marker test, Quadruple Screen test, etc). Prenatal testing consists of prenatal screening and prenatal diagnosis, which are aspects of prenatal care that focus on detecting problems with the pregnancy as early as possible.</p>
                             </div>
                         </div>
                     </div>

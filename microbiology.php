@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Microbiology</h1>
                         </div>
                     </div>
                 </div>
@@ -39,12 +39,12 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
                                 <li><a href="radiology.php"><i class="fas fa-angle-right"></i> Radiology</a></li>
                                 <li><a href="prenatal-screening.php"><i class="fas fa-angle-right"></i> Prenatal Screening</a></li>
-                                <li><a href="microbiology.php"><i class="fas fa-angle-right"></i> Microbiology</a></li>
                                 <li><a href="endocrinology.php"><i class="fas fa-angle-right"></i> Endocrinology</a></li>
                                 <li><a href="allergy-profiles.php"><i class="fas fa-angle-right"></i> Allergy Profiles</a></li>
                                 <li><a href="imaging-ultrasound-scanning.php"><i class="fas fa-angle-right"></i> Imaging(Advanced 4D Ultrasound Scanning)</a></li>
@@ -60,12 +60,12 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/microbology-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Microbiology</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Microbiology, the study of microorganisms, or microbes, a diverse group of generally minute simple life-forms that include bacteria, archaea, algae, fungi, protozoa, and viruses. The field is concerned with the structure, function, and classification of such organisms and with ways of both exploiting and controlling their activities. The 17th-century discovery of living forms existing invisible to the naked eye was a significant milestone in the history of science, for from the 13th century onward it had been postulated that “invisible” entities were responsible for decay and disease. The word microbe was coined in the last quarter of the 19th century to describe these organisms, all of which were thought to be related. As microbiology eventually developed into a specialized science, it was found that microbes are a very large group of extremely diverse organisms.</p>
+                                <p>Daily life is interwoven inextricably with microorganisms. In addition to populating both the inner and outer surfaces of the human body, microbes abound in the soil, in the seas, and in the air. Abundant, although usually unnoticed, microorganisms provide ample evidence of their presence—sometimes unfavorably, as when they cause decay of materials or spread diseases, and sometimes favorably, as when they ferment sugar to wine and beer, cause bread to rise, flavor cheeses, and produce valued products such as antibiotics and insulin. Microorganisms are of incalculable value to Earth’s ecology, disintegrating animal and plant remain and converting them to simpler substances that can be recycled in other organisms.</p>
                             </div>
                         </div>
                     </div>

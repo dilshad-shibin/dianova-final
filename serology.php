@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Serology</h1>
                         </div>
                     </div>
                 </div>
@@ -39,9 +39,9 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
-                                <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
                                 <li><a href="radiology.php"><i class="fas fa-angle-right"></i> Radiology</a></li>
                                 <li><a href="prenatal-screening.php"><i class="fas fa-angle-right"></i> Prenatal Screening</a></li>
                                 <li><a href="microbiology.php"><i class="fas fa-angle-right"></i> Microbiology</a></li>
@@ -60,12 +60,21 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/serology-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Serology</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Serology is the scientific study of serum and other bodily fluids. In practice, the term usually refers to the diagnostic identification of antibodies in the serum. Such antibodies are typically formed in response to an infection (against a given microorganism), against other foreign proteins (in response, for example, to a mismatched blood transfusion), or to one's own proteins (in instances of autoimmune disease). Serological tests may be performed for diagnostic purposes when an infection is suspected, in rheumatic illnesses, and in many other situations, such as checking an individual's blood type. Serology blood tests help to diagnose patients with certain immune deficiencies associated with the lack of antibodies.</p>
+                                <p class="mb-30">Serologic tests are blood tests that look for antibodies in your blood. They can involve a number of laboratory techniques. Different types of serologic tests are used to diagnose various disease conditions. Serologic tests have one thing in common. They all focus on proteins made by your immune system. This vital body system helps keep you healthy by destroying foreign invaders that can make you ill. The process for having the test is the same regardless of which technique the laboratory uses during serologic testing. </p>
+                                <p class="mb-3">Antigens are substances that provoke a response from the immune system. They’re usually too small to see with the naked eye. They can enter the human body through the mouth, through broken skin, or through nasal passages. Antigens that commonly affect people include the following:</p>
+                                <ul class="mb-30">
+                                    <li><i class="fas fa-angle-double-right"></i> Bacteria</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Fungi</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Viruses</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Parasites</li>
+                                </ul>
+                                <p class="mb-30">The immune system defends against antigens by producing antibodies. These antibodies are particles that attach to the antigens and deactivate them. When your doctor tests your blood, they can identify the type of antibodies and antigens that are in your blood sample, and identify the type of infection you have. Sometimes the body mistakes its own healthy tissue for outside invaders and produces unnecessary antibodies. This is known as an autoimmune disorder. Serologic testing can detect these antibodies and help your doctor diagnose an autoimmune disorder.</p>
+                                <p>A blood sample is all that the laboratory needs to conduct serologic testing. The test will occur in your doctor’s office. Your doctor will insert a needle into your vein and collect blood for a sample. The doctor may simply pierce the skin with a lancet if conducting serologic testing on a young child. The testing procedure is quick. The pain level for most people isn’t severe. Excessive bleeding and infection may occur, but the risk of either of these is low. </p>
                             </div>
                         </div>
                     </div>

@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Molecular Biology</h1>
                         </div>
                     </div>
                 </div>
@@ -39,6 +39,7 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
@@ -53,19 +54,20 @@
                                 <li><a href="hematology.php"><i class="fas fa-angle-right"></i> Hematology</a></li>
                                 <li><a href="clinical-chemistry.php"><i class="fas fa-angle-right"></i> Clinical Chemistry</a></li>
                                 <li><a href="immunoassay.php"><i class="fas fa-angle-right"></i> Immunoassay</a></li>
-                                <li><a href="molecular-biology.php"><i class="fas fa-angle-right"></i> Molecular Biology</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/molecular-biology-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Molecular Biology</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Molecular biology, the field of science concerned with studying the chemical structures and processes of biological phenomena that involve the basic units of life, molecules. The field of molecular biology is focused especially on nucleic acids (e.g., DNA and RNA) and proteins—macromolecules that are essential to life processes—and how these molecules interact and behave within cells. Molecular biology emerged in the 1930s, having developed out of the related fields of biochemistry, genetics, and biophysics; today it remains closely associated with those fields.</p>
+                                <p class="mb-30">The field of molecular biology provides the most detailed and convincing evidence available for biological evolution. Various techniques have been developed for molecular biology, though researchers in the field may also employ methods and techniques native to genetics and other closely associated fields. In particular, molecular biology seeks to understand the three-dimensional structure of biological macromolecules through techniques such as X-ray diffraction and electron microscopy. The discipline particularly seeks to understand the molecular basis of genetic processes; molecular biologists map the location of genes on specific chromosomes, associate these genes with particular characters of an organism, and use genetic engineering (recombinant DNA technology) to isolate, sequence, and modify specific genes. These approaches can also include techniques such as polymerase chain reaction, western blotting, and microarray analysis.</p>
+                                <p class="mb-30">In its early period during the 1940s, the field of molecular biology was concerned with elucidating the basic three-dimensional structure of proteins. Growing knowledge of the structure of proteins in the early 1950s enabled the structure of deoxyribonucleic acid (DNA)—the genetic blueprint found in all living things—to be described in 1953. Further research enabled scientists to gain an increasingly detailed knowledge not only of DNA and ribonucleic acid (RNA) but also of the chemical sequences within these substances that instruct the cells and viruses to make proteins.</p>
+                                <p>Molecular biology remained a pure science with few practical applications until the 1970s when certain types of enzymes were discovered that could cut and recombine segments of DNA in the chromosomes of certain bacteria. The resulting recombinant DNA technology became one of the most active branches of molecular biology because it allows the manipulation of the genetic sequences that determine the basic characters of organisms.</p>
                             </div>
                         </div>
                     </div>

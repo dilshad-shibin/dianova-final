@@ -1108,6 +1108,9 @@
     .team-details.pl-28{
         padding-left: 0;
     }
+    .service-wrapper{
+        padding-left: 0;
+    }
 }
 
 @media(max-width: 767px){
@@ -1287,5 +1290,11 @@
     }
     .service-wrapper{
         padding-left: 0;
+    }
+    .service-sidebar{
+        padding: 50px 35px;
+    }
+    .font-small-mobile{
+        font-size: 26px !important;
     }
 }

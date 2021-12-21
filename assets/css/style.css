@@ -165,6 +165,14 @@ img {
     color: #191b16 !important;
 }
 
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.mb-30{
+    margin-bottom: 30px;
+}
+
 /* ******************************
 :: 4.0 COMMON CSS
 ****************************** */
@@ -2127,11 +2135,14 @@ footer{
     color: #fff;
     font-size: 18px;
     transition: all .2s;
+    display: flex;
+    align-items: center;
 }
 
 .service-sidebar ul li a svg{
     /* display: none; */
     transition: all .3s ease;
+    margin-right: 8px;
 }
 
 .service-sidebar ul li:hover a svg{
@@ -2171,6 +2182,21 @@ footer{
 
 .service-wrapper .text p:nth-child(1){
     margin-bottom: 35px;
+}
+
+.service-wrapper ul li{
+    color: #111359;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 26px;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 12px;
+}
+
+.service-wrapper ul li svg{
+    margin-right: 10px;
+    margin-top: 6px;
 }
 
 /* ******************************

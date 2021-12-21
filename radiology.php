@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Radiology</h1>
                         </div>
                     </div>
                 </div>
@@ -39,10 +39,10 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
-                                <li><a href="radiology.php"><i class="fas fa-angle-right"></i> Radiology</a></li>
                                 <li><a href="prenatal-screening.php"><i class="fas fa-angle-right"></i> Prenatal Screening</a></li>
                                 <li><a href="microbiology.php"><i class="fas fa-angle-right"></i> Microbiology</a></li>
                                 <li><a href="endocrinology.php"><i class="fas fa-angle-right"></i> Endocrinology</a></li>
@@ -60,12 +60,13 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/radiology-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Radiology</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Radiology is a specialty that uses medical imaging to diagnose and treat diseases seen within the body. A variety of imaging techniques such as X-ray radiography, ultrasound, computed tomography (CT), nuclear medicine including positron emission tomography (PET), and magnetic resonance imaging (MRI) are used to diagnose and/or treat diseases. Interventional radiology is the performance of (usually minimally invasive) medical procedures with the guidance of imaging technologies.</p>
+                                <p class="mb-30">A variety of imaging techniques such as X-ray radiography, ultrasound, computed tomography (CT), nuclear medicine including positron emission tomography (PET), fluoroscopy, and magnetic resonance imaging (MRI) are used to diagnose or treat diseases. Interventional radiology is the performance of usually minimally invasive medical procedures with the guidance of imaging technologies such as those mentioned above.</p>
+                                <p class="mb-30">The modern practice of radiology involves several different healthcare professions working as a team. The radiologist is a medical doctor who has completed the appropriate post-graduate training and interprets medical images, communicates these findings to other physicians by means of a report or verbally, and uses imaging to perform minimally invasive medical procedures. The nurse is involved in the care of patients before and after imaging or procedures, including administration of medications, monitoring of vital signs and monitoring of sedated patients. The radiographer, also known as a "radiologic technologist" in some countries such as the United States and Canada, is a specially trained healthcare professional that uses sophisticated technology and positioning techniques to produce medical images for the radiologist to interpret. Depending on the individual's training and country of practice, the radiographer may specialize in one of the above-mentioned imaging modalities or have expanded roles in image reporting.</p>
                             </div>
                         </div>
                     </div>

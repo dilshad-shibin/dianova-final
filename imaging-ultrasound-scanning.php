@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Imaging (Advanced 4D)</h1>
                         </div>
                     </div>
                 </div>
@@ -39,6 +39,7 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
@@ -47,7 +48,6 @@
                                 <li><a href="microbiology.php"><i class="fas fa-angle-right"></i> Microbiology</a></li>
                                 <li><a href="endocrinology.php"><i class="fas fa-angle-right"></i> Endocrinology</a></li>
                                 <li><a href="allergy-profiles.php"><i class="fas fa-angle-right"></i> Allergy Profiles</a></li>
-                                <li><a href="imaging-ultrasound-scanning.php"><i class="fas fa-angle-right"></i> Imaging(Advanced 4D Ultrasound Scanning)</a></li>
                                 <li><a href="histopathology.php"><i class="fas fa-angle-right"></i> Histopathology</a></li>
                                 <li><a href="clinical-pathology.php"><i class="fas fa-angle-right"></i> Clinical Pathology</a></li>
                                 <li><a href="hematology.php"><i class="fas fa-angle-right"></i> Hematology</a></li>
@@ -60,12 +60,12 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/ultra-sound-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2 class="font-small-mobile">Imaging (Advanced 4D Ultrasound Scanning)</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Like regular ultrasounds, 3D and 4D ultrasounds use sound waves to create an image of your baby in your womb. What's different is that 3D ultrasounds create a three-dimensional image of your baby, while 4D ultrasounds create a live video effect, like a movie you can watch your baby smile or yawn. Parents often want 3D and 4D ultrasounds. They let you see your baby's face for the first time. Some doctors like 3D and 4D ultrasounds because they can show certain birth defects, such as cleft palate, that might not show up on a standard ultrasound. Studies suggest that 3D and 4D ultrasounds are safe. Plus, the images can help doctors spot a problem with your baby and make it easier for them to explain it to you.</p>
+                                <p>For an abdominal ultrasound, you'll lie down and a technician will put a certain gel on your belly. This helps carry the sound waves. Then the technician will hold a probe against your belly and move it around to get an image.</p>
                             </div>
                         </div>
                     </div>

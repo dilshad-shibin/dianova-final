@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Hematology</h1>
                         </div>
                     </div>
                 </div>
@@ -39,6 +39,7 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
@@ -50,7 +51,6 @@
                                 <li><a href="imaging-ultrasound-scanning.php"><i class="fas fa-angle-right"></i> Imaging(Advanced 4D Ultrasound Scanning)</a></li>
                                 <li><a href="histopathology.php"><i class="fas fa-angle-right"></i> Histopathology</a></li>
                                 <li><a href="clinical-pathology.php"><i class="fas fa-angle-right"></i> Clinical Pathology</a></li>
-                                <li><a href="hematology.php"><i class="fas fa-angle-right"></i> Hematology</a></li>
                                 <li><a href="clinical-chemistry.php"><i class="fas fa-angle-right"></i> Clinical Chemistry</a></li>
                                 <li><a href="immunoassay.php"><i class="fas fa-angle-right"></i> Immunoassay</a></li>
                                 <li><a href="molecular-biology.php"><i class="fas fa-angle-right"></i> Molecular Biology</a></li>
@@ -60,12 +60,20 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/hematology-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Hematology</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Hematology is the science or study of blood, blood-forming organs, and blood diseases. In the medical field, hematology includes the treatment of blood disorders and malignancies, including types of hemophilia, leukemia, lymphoma, and sickle-cell anemia. Hematology is a branch of internal medicine that deals with the physiology, pathology, etiology, diagnosis, treatment, prognosis, and prevention of blood-related disorders. Hematologists focus largely on lymphatic organs and bone marrow and may diagnose blood count irregularities or platelet irregularities. Hematologists treat organs that are fed by blood cells, including the lymph nodes, spleen, thymus, and lymphoid tissue.</p>
+                                <p class="mb-30">Four major areas of study within hematology include hemoglobinopathy, hematological malignancies, anemia, and coagulopathy. Hemoglobinopathy is the study of abnormality in the globin chains of hemoglobin molecules. In addition to sickle cell anemia, thalassemia (also known as erythropoiesis) is part of hemoglobinopathy. The area of hematological malignancies is concerned with the diagnosis and treatment of cancers of the bone marrow, blood and lymph nodes. Myeloma is one type of hematological malignancy, along with leukemia and lymphoma. Other disorders treated by a hematologist include arterial thromboembolism, deep-vein thrombosis, and neutropenia.</p>
+                                <h3 class="mb-3"><strong>Hematology tests</strong></h3>
+                                <p class="mb-3">One of the most common hematology tests is the complete blood count or CBC. This test is often conducted during a routine exam and can detect anemia, clotting problems, blood cancers, immune system disorders, and infections.  </p>
+                                <p class="mb-3">Other hematology tests include:</p>
+                                <ul>
+                                    <li><i class="fas fa-angle-double-right"></i> Blood chemistry test</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Blood enzyme test; and</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Blood tests to assess heart disease risk.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>

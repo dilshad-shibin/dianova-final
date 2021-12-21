@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Cytopathology</h1>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
-                                <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
                                 <li><a href="radiology.php"><i class="fas fa-angle-right"></i> Radiology</a></li>
@@ -60,12 +60,12 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/cytology-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Cytopathology</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p>Cytopathology is a diagnostic technique that examines cells from various body sites to determine the cause or the nature of the disease. The first cytopathology test developed was the Pap test which has been widely utilized in the last 50 years for screening and diagnosing cervical cancer and its precursors. Cytopathology is generally used on samples of free cells or tissue fragments, in contrast to histopathology, which studies whole tissues. Cytopathology is frequently, less precisely, called "cytology", which means "the study of cells". Cytopathology is commonly used to investigate diseases involving a wide range of body sites, often to aid in the diagnosis of cancer but also in the diagnosis of some infectious diseases and other inflammatory conditions.</p>
+                                <p>Cell samples may be gathered during routine diagnostic tests, such as bronchoscopy and cystoscopy. Specific tests, such as the Papanicolaou test, also known as the Pap test or fine-needle aspiration, can be used to gather cells from specific sites for diagnosis. Analysis of cell samples is often a rapid process but requires specialist training to correctly identify cells that pose a potential danger to a patient, such as pre-cancerous, cancerous, or infected cells. This is the job of a trained cytopathologist; a medical doctor who has undergone additional training to correctly review and interpret the results from cytopathology tests.</p>
                             </div>
                         </div>
                     </div>

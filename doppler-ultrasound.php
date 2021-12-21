@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Biochemistry</h1>
+                            <h1>Doppler Ultrasound</h1>
                         </div>
                     </div>
                 </div>
@@ -39,8 +39,8 @@
                         <div class="service-sidebar">
                             <h3>Other Services</h3>
                             <ul>
+                                <li><a href="biochemistry.php"><i class="fas fa-angle-right"></i> Biochemistry</a></li>
                                 <li><a href="cytopathology.php"><i class="fas fa-angle-right"></i> Cytopathology</a></li>
-                                <li><a href="doppler-ultrasound.php"><i class="fas fa-angle-right"></i> Doppler Ultrasound</a></li>
                                 <li><a href="serology.php"><i class="fas fa-angle-right"></i> Serology</a></li>
                                 <li><a href="radiology.php"><i class="fas fa-angle-right"></i> Radiology</a></li>
                                 <li><a href="prenatal-screening.php"><i class="fas fa-angle-right"></i> Prenatal Screening</a></li>
@@ -60,12 +60,21 @@
                     <div class="col-lg-8">
                         <div class="service-wrapper">
                             <div class="service-thumbnail">
-                                <img src="assets/img/services/biochemistry-700-400.jpg" alt="">
+                                <img src="assets/img/services/doppler-effect-700-400.jpg" alt="">
                             </div>
-                            <h2>Biochemistry</h2>
+                            <h2>Doppler Ultrasound</h2>
                             <div class="text">
-                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms. It is a laboratory-based science that brings together biology and chemistry. By using chemical knowledge and techniques, biochemists can understand and solve biological problems. Biochemistry focuses on processes happening at a molecular level. It focuses on what’s happening inside our cells, studying components like proteins, lipids, and organelles. It also looks at how cells communicate with each other, for example during growth or fighting illness. Biochemists need to understand how the structure of a molecule relates to its function, allowing them to predict how molecules will interact.</p>
-                                <p>Biochemistry covers a range of scientific disciplines, including genetics, microbiology, forensics, plant science, and medicine. Because of its breadth, biochemistry is very important and advances in this field of science over the past 100 years have been staggering. It’s a very exciting time to be part of this fascinating area of study. Perhaps the most obvious application of biochemistry in our everyday existence is in the field of health research. Biochemistry has been a key to our growing understanding of a myriad of health issues; from diabetes to arteriosclerosis to cancer.  The tools of biochemists have identified the gene, protein, and pathway disruptions that lead to disease and, in many cases, point us to preventions, treatments or cures. From aspirin to interleukins, the treatment of human disease relies heavily on biochemistry.</p>
+                                <p class="mb-3">A Doppler ultrasound is a noninvasive test that can be used to estimate the blood flow through your blood vessels by bouncing high-frequency sound waves (ultrasound) off circulating red blood cells. A regular ultrasound uses sound waves to produce images, but can't show blood flow. A Doppler ultrasound may help diagnose many conditions, including:</p>
+                                <ul class="mb-30">
+                                    <li><i class="fas fa-angle-double-right"></i> Blood clots</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Poorly functioning valves in your leg veins, which can cause blood or other fluids to pool in your legs (venous insufficiency)</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Heart valve defects and congenital heart disease</li>
+                                    <li><i class="fas fa-angle-double-right"></i> A blocked artery (arterial occlusion)</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Decreased blood circulation into your legs (peripheral artery disease)</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Bulging arteries (aneurysms)</li>
+                                    <li><i class="fas fa-angle-double-right"></i> Narrowing of an artery, such as in your neck (carotid artery stenosis)</li>
+                                </ul>
+                                <p>A Doppler ultrasound can estimate how fast blood flows by measuring the rate of change in its pitch (frequency). During a Doppler ultrasound, a technician trained in ultrasound imaging (sonographer) presses a small hand-held device (transducer), about the size of a bar of soap, against your skin over the area of your body being examined, moving from one area to another as necessary. This test may be done as an alternative to more invasive procedures, such as angiography, which involves injecting dye into the blood vessels so that they show up clearly on X-ray images.</p>
                             </div>
                         </div>
                     </div>
