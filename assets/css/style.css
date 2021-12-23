@@ -20,6 +20,7 @@
 :: 18.0 ABOUT PAGE AREA CSS
 :: 19.0 SERVICES PAGE AREA CSS
 :: 20.0 SINGLE SERVICE PAGE AREA CSS
+:: 21.0 HEALTH PACKAGE PAGE AREA CSS
 ****************************** */
 
 /* ******************************
@@ -1372,6 +1373,10 @@ footer{
     background-image: url(../img/packages/3.png);
 }
 
+.pg-box-4{
+    background-image: url(../img/packages/4.png);
+}
+
 .pg-box-inner{
     position: absolute;
     bottom: 70px;
@@ -2199,6 +2204,153 @@ footer{
     margin-top: 6px;
 }
 
-/* ******************************
-:: 20.0  PAGE AREA CSS
-****************************** */
+/* *********************************
+:: 21.0 HEALTH PACKAGE PAGE AREA CSS
+********************************** */
+/* inner health package */
+.inner-package{
+    padding: 100px 0;
+    position: relative;
+}
+
+.package-inner-box{
+    background: #fff;
+    box-shadow: 0 4px 8px rgb(0 0 0 / 15%);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.package-inner-box .img img{
+    border-radius: 20px;
+}
+
+.pg-content{
+    padding-left: 35px;
+}
+
+.pg-content .star{
+    margin-bottom: 5px;
+}
+
+.pg-content .star img{
+    max-width: 100px;
+}
+
+.pg-content p{
+    margin-bottom: 20px;
+    color: #444444;
+    font-weight: 600;
+    font-size: 16px;
+    max-width: 400px;
+}
+
+.pg-content .rate .org{
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.pg-content .rate .package-price{
+    color: #88bcc0;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.pg-content .rate .package-price span{
+    color: #2c2f7c;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.btn-package{
+    margin-top: 20px;
+}
+
+.btn-package a{
+    height: 46px;
+    line-height: 44px;
+    border: 2px solid #d7d9e3;
+    color: #0e1133;
+    background: transparent;
+    display: inline-block;
+    text-align: center;
+    padding: 0 25px;
+    border-radius: 4px;
+    font-weight: 600;
+    -o-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+}
+
+.btn-package a:hover{
+    background: #f58220;
+    border-color: #f58220;
+    color: #ffffff;
+}
+
+/* Package faq */
+.package-faq{
+    padding: 20px 0;
+}
+
+.package-faq .head h2{
+    color: #191b16;
+    font-weight: 700;
+    margin-bottom: 50px;
+    font-size: 45px;
+    position: relative;
+}
+
+.package-faq .head h2::before{
+    position: absolute;
+    content: "";
+    background-color: #f58220;
+    height: 3px;
+    border-radius: 10px;
+    width: 50px;
+    left: 50%;
+    bottom: -15px;
+    transform: translate(-50%,-50%);
+}
+
+/* Accordion */
+.accordion .card {
+    margin-bottom: 1rem !important;
+}
+
+.card-header .btn {
+    position: relative;
+    display: block;
+    width: 100%;
+    background: transparent;
+    color: #1c144e;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.accordion .card-body p{
+    color: #444444;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.card-header .btn::after, .card-header .btn.collapsed::after {
+    position: absolute;
+    top: 50%;
+    left: calc(100% - 30px);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Font Awesome 5 Free';
+}
+
+.card-header .btn::after {
+    content: '-';
+}
+
+.card-header .btn.collapsed::after {
+    content: '+';
+}

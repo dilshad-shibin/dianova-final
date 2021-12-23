@@ -455,7 +455,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12 text-center">
-                        <div class="pg-bottom-btn"><a href="#">View all Packages <i class="fas fa-chevron-right"></i></a></div>
+                        <div class="pg-bottom-btn"><a href="health-package.php">View all Packages <i class="fas fa-chevron-right"></i></a></div>
                     </div>
                 </div>
             </div>

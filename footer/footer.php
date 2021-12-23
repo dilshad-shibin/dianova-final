@@ -38,7 +38,7 @@
                     <div class="footer-menu-area">
                         <ul>
                             <li><a href="about.php">About Us</a></li>
-                            <li><a href="#">Packages</a></li>
+                            <li><a href="health-package.php">Packages</a></li>
                             <li><a href="#">Specialities</a></li>
                             <li><a href="#">Careers</a></li>
                             <li><a href="#">Branches</a></li>
