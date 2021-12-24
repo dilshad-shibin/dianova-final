@@ -1321,4 +1321,11 @@
     .card-header .btn{
         padding: 0;
     }
+    .speciality-head h1{
+        margin-bottom: 48px;
+        font-size: 38px;
+    }
+    .accredt-head h2{
+        font-size: 40px;
+    }
 }

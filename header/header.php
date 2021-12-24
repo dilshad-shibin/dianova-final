@@ -29,7 +29,7 @@
                         <a class="nav-link" href="health-package.php">Packages</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="specialities.html">Specialities</a>
+                        <a class="nav-link" href="specialities.php">Specialities</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="careers.html">Careers</a>

@@ -21,6 +21,7 @@
 :: 19.0 SERVICES PAGE AREA CSS
 :: 20.0 SINGLE SERVICE PAGE AREA CSS
 :: 21.0 HEALTH PACKAGE PAGE AREA CSS
+:: 22.0 SPECIALITIES PAGE AREA CSS
 ****************************** */
 
 /* ******************************
@@ -2353,4 +2354,151 @@ footer{
 
 .card-header .btn.collapsed::after {
     content: '+';
+}
+
+/* *********************************
+:: 22.0 SPECIALITIES PAGE AREA CSS
+********************************** */
+.speciality-area{
+    padding: 70px 0 110px;
+}
+
+.speciality-head p {
+    color: #f58220;
+    font-weight: 500;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.speciality-head h1{
+    color: #191b16;
+    font-weight: 700;
+    margin-bottom: 70px;
+    font-size: 45px;
+}
+
+.speciality-block{
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.speciality-block .inner-box{
+    position: relative;
+    padding: 45px 40px;
+    background-color: #ffffff;
+    background-image: url(../img/pattern-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    -webkit-transition: all 400ms ease;
+    -moz-transition: all 400ms ease;
+    -ms-transition: all 400ms ease;
+    -o-transition: all 400ms ease;
+    transition: all 400ms ease;
+}
+
+.speciality-block .inner-box:before, 
+.speciality-block .inner-box:after {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    right: -100px;
+    top: -100px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    z-index: 9;
+    transform: scale(0);
+    content: "";
+    transition: all 600ms ease;
+}
+
+.speciality-block .img{
+    margin-bottom: 20px;
+}
+
+.speciality-block  h4 {
+    display: block;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #444444;
+}
+
+.speciality-block p{
+    color: #666666;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 400;
+}
+
+.speciality-block .inner-box:hover{
+    background-color: #f58220;
+    transform: translateY(-20px);
+    box-shadow: 0 10px 30px rgb(0 0 0 / 20%);
+}
+
+.speciality-block .inner-box:hover:before {
+    transform: scale(1);
+    opacity: .20;
+    transition-delay: 300ms;
+}
+
+.speciality-block .inner-box:hover:after {
+    transform: scale(1.7);
+    opacity: .10;
+    transition-delay: 400ms;
+}
+
+.speciality-block .inner-box:hover h4 {
+    color: #ffffff;
+}
+
+.speciality-block .inner-box:hover p {
+    color: #ffffff;
+}
+
+.speciality-block .inner-box .img .spc-img-none{
+    display: none;
+}
+
+.speciality-block .inner-box:hover .img .spc-imgone{
+    display: none;
+}
+
+.speciality-block .inner-box:hover .img .spc-img-none{
+    display: block;
+}
+
+/* Accreditation area */
+.accreditation-area{
+    background-image: url(../img/bg/service-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.accredt-head h2{
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 70px;
+    font-size: 45px;
+}
+
+.accreditation-box{
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.accreditation-box img.bx-1{
+    max-width: 155px;
+}
+
+.accreditation-box img.bx-2{
+    max-width: 300px;
 }
