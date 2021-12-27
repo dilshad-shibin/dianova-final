@@ -38,7 +38,7 @@
                         <a class="nav-link" href="branches.php">Branches</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact us</a>
+                        <a class="nav-link" href="contact.php">Contact us</a>
                     </li>
                     <li class="nav-item">
                         <a href="http://reports.dianova.in/" target="_blank" class="nav-link nav-link-btn"><img src="assets/img/online-results.png" alt=""> Online Results</a>

@@ -1120,6 +1120,9 @@
     .package-inner-box{
         padding-bottom: 35px;
     }
+    .contact-us .single-head{
+        margin-top: 50px;
+    }
 }
 
 @media(max-width: 767px){
@@ -1341,5 +1344,14 @@
     }
     .covid-test{
         padding: 90px 0 70px;
+    }
+    .contact-head h2{
+        font-size: 27px;
+    }
+    .form-main{
+        padding: 45px 20px 50px;
+    }
+    .contact-us .single-head{
+        padding: 50px 25px;
     }
 }

@@ -23,6 +23,7 @@
 :: 21.0 HEALTH PACKAGE PAGE AREA CSS
 :: 22.0 SPECIALITIES PAGE AREA CSS
 :: 23.0 BRANCHES PAGE AREA CSS
+:: 24.0 CONTACT PAGE AREA CSS
 ****************************** */
 
 /* ******************************
@@ -2625,4 +2626,194 @@ footer{
     font-size: 50px;
     font-weight: 700;
     margin-bottom: 70px;
+}
+
+/* *********************************
+:: 24.0 CONTACT PAGE AREA CSS
+********************************** */
+.contact-us{
+    position: relative;
+}
+
+.contact-head{
+    max-width: 700px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.contact-head  h2{
+    color: #191b16;
+    font-weight: 700;
+    font-size: 35px;
+    position: relative;
+}
+
+.contact-head h2::before{
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    bottom: -15px;
+    background-color: #f58220;
+    height: 2px;
+    width: 50px
+}
+
+.form-main{
+    padding: 45px 50px 50px;
+    background-color: #fff;
+    border-bottom: 4px solid #f58220;
+    -webkit-box-shadow: 0 1px 30px 0 rgb(32 32 32 / 11%);
+    box-shadow: 0 1px 30px 0 rgb(32 32 32 / 11%);
+    height: 100%;
+    border-radius: 10px;
+}
+
+.form-main .form-title{
+    margin-bottom: 30px;
+}
+
+.form-main .form-title h2{
+    margin-bottom: 35px;
+    font-size: 22px;
+    color: #081828;
+    font-weight: 600;
+}
+
+.form .form-group{
+    margin-bottom: 15px;
+    display: block;
+}
+
+.form .form-group input{
+    height: 55px;
+    line-height: 55px;
+    width: 100%;
+    border: 1px solid #e6e2f5;
+    padding: 0 20px;
+    color: #333;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+.form .form-group textarea {
+    height: 180px;
+    width: 100%;
+    border: 1px solid #e6e2f5;
+    padding: 15px 20px;
+    color: #333;
+    font-weight: 400;
+    border-radius: 5px;
+    resize: vertical;
+}
+
+.form .form-group button{
+    height: 50px;
+    border: none;
+    display: inline-block;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 15px 30px;
+    background-color: #f58220;
+    color: #fff;
+    transition: 0.5s;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+}
+
+.contact-us .single-head {
+    padding: 50px;
+    height: 100%;
+    position: relative;
+    z-index: 5;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: #fff;
+    border-bottom: 4px solid #f58220;
+    -webkit-box-shadow: 0 1px 30px 0 rgb(32 32 32 / 11%);
+    box-shadow: 0 1px 30px 0 rgb(32 32 32 / 11%);
+}
+
+.contact-us .main-title {
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 35px;
+    color: #081828;
+    text-transform: capitalize;
+}
+
+.contact-us .single-info {
+    text-align: left;
+    margin-bottom: 35px;
+    position: relative;
+    padding-left: 75px;
+}
+
+.contact-us .single-info .info-icon {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    display: block;
+    color: #f58220;
+    font-size: 20px;
+    background-color: #fff;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 4px;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+.contact-us .single-info h3 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.contact-us .single-info ul {
+    display: inline-block;
+}
+
+.contact-us .single-info ul li {
+    font-weight: 400;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #888;
+}
+
+.contact-us .single-info ul li:last-child {
+    margin: 0;
+}
+
+.contact-us .contact-social ul li {
+    display: inline-block;
+    margin-right: 12px;
+}
+
+.contact-us .contact-social ul li a {
+    font-size: 14px;
+    color: #888;
+}
+
+.contact-us .single-info h3{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.single-info:hover .info-icon{
+    color: #fff;
+    background-color: #f58220;
+    border: 1px solid #f58220;
+    cursor: pointer;
+}
+
+.contact-us .single-info ul li a:hover{
+    color: #f58220;
 }
