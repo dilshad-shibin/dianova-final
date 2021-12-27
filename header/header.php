@@ -35,7 +35,7 @@
                         <a class="nav-link" href="careers.html">Careers</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="branches.html">Branches</a>
+                        <a class="nav-link" href="branches.php">Branches</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact.html">Contact us</a>

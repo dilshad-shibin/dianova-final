@@ -1328,4 +1328,18 @@
     .accredt-head h2{
         font-size: 40px;
     }
+    .covid-box{
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .covid-box p a:before{
+        right: 0;
+        margin: 0 auto;
+    }
+    .covid-box h3{
+        font-size: 30px;
+    }
+    .covid-test{
+        padding: 90px 0 70px;
+    }
 }
