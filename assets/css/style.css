@@ -24,6 +24,7 @@
 :: 22.0 SPECIALITIES PAGE AREA CSS
 :: 23.0 BRANCHES PAGE AREA CSS
 :: 24.0 CONTACT PAGE AREA CSS
+:: 25.0 CAREERS PAGE AREA CSS
 ****************************** */
 
 /* ******************************
@@ -2816,4 +2817,92 @@ footer{
 
 .contact-us .single-info ul li a:hover{
     color: #f58220;
+}
+
+/* *********************************
+:: 25.0 CAREERS PAGE AREA CSS
+********************************** */
+.career-head{
+    margin-bottom: 60px;
+}
+
+.career-head h2{
+    color: #191b16;
+    font-weight: 700;
+    font-size: 35px;
+    position: relative;
+}
+
+.career-head h2 span{
+    color: #f58220;
+}
+
+.single-job-list{
+    background: #fff;
+    -webkit-box-shadow: 0px 4px 20px #9398a11a;
+    box-shadow: 0px 4px 20px #9398a11a;
+    border-radius: 8px;
+    padding: 22px 35px 22px 26px;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    margin-bottom: 40px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.single-job-list img {
+    width: 66px;
+    height: 66px;
+}
+
+.single-job-list .media-body {
+    border-left: 1px solid #EEEBF7;
+    margin-left: 26.5px;
+    padding-left: 25.5px;
+}
+
+.single-job-list .media-body h6 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0.18px;
+    color: #5B6880;
+    display: inline-block;
+    margin-bottom: 12px;
+}
+
+.single-job-list .media-body span {
+    font-size: 14px;
+    line-height: 1.9;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    color: #5B6880;
+    display: block;
+}
+
+.job-apply-btn {
+    background: #FFFFFF;
+    border: 1px solid #D6DAE1;
+    border-radius: 4px;
+    font-size: var(--body-font-size);
+    letter-spacing: 0.3px;
+    color: #97A1B3;
+    height: 44px;
+    line-height: 44px;
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    padding: 0 30px;
+    display: inline-block;
+}
+
+.job-apply-btn:hover {
+    -webkit-box-shadow: 0px 7px 16px #f58220;
+    box-shadow: 0px 7px 16px #f583209f;
+    background: #f58220;
+    color: #fff;
+    border: 1px solid #f58220;
 }

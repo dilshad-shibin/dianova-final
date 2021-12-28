@@ -32,7 +32,7 @@
                         <a class="nav-link" href="specialities.php">Specialities</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="careers.html">Careers</a>
+                        <a class="nav-link" href="careers.php">Careers</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="branches.php">Branches</a>

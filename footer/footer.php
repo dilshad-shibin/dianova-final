@@ -40,9 +40,9 @@
                             <li><a href="about.php">About Us</a></li>
                             <li><a href="health-package.php">Packages</a></li>
                             <li><a href="spacialities.php">Specialities</a></li>
-                            <li><a href="#">Careers</a></li>
+                            <li><a href="careers.php">Careers</a></li>
                             <li><a href="branches.php">Branches</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
