@@ -45,7 +45,7 @@
                                 <h6>Staff Nurse and Chemist</h6>
                                 <span>Dec 27, 2021</span>
                             </div>
-                            <a href="" class="job-apply-btn align-self-center float-right">Apply Now</a>
+                            <a href="job-details.php" class="job-apply-btn align-self-center float-right">Apply Now</a>
                         </div>
                         <div class="single-job-list media">
                             <img src="assets/img/phramacist.png" alt="icon">
@@ -53,7 +53,7 @@
                                 <h6>Experienced Pharmacist</h6>
                                 <span>Dec 02, 2021</span>
                             </div>
-                            <a href="" class="job-apply-btn align-self-center float-right">Apply Now</a>
+                            <a href="job-details.php" class="job-apply-btn align-self-center float-right">Apply Now</a>
                         </div>
                         <div class="single-job-list media">
                             <img src="assets/img/receptionist.png" alt="icon">
@@ -61,7 +61,7 @@
                                 <h6>Hospital Receptionist</h6>
                                 <span>Nov 28, 2021</span>
                             </div>
-                            <a href="" class="job-apply-btn align-self-center float-right">Apply Now</a>
+                            <a href="job-details.php" class="job-apply-btn align-self-center float-right">Apply Now</a>
                         </div>
 
                     </div>

@@ -171,11 +171,19 @@ img {
 }
 
 .mb-20{
-    margin-bottom: 20px;
+    margin-bottom: 20px !important;
 }
 
 .mb-30{
-    margin-bottom: 30px;
+    margin-bottom: 30px !important;
+}
+
+.pr-100{
+    padding-right: 100px !important;
+}
+
+.pl-100{
+    padding-left: 100px !important;
 }
 
 /* ******************************
@@ -2905,4 +2913,136 @@ footer{
     background: #f58220;
     color: #fff;
     border: 1px solid #f58220;
+}
+
+.widget-job-details {
+    background: #fff;
+    -webkit-box-shadow: 0px 2px 50px #97a1b229;
+    box-shadow: 0px 2px 50px #97a1b229;
+    border-radius: 8px;
+    padding: 70px 38px;
+}
+
+.widget-job-details .widget-title {
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    padding-bottom: 15px;
+    margin-bottom: 45px;
+    position: relative;
+}
+
+.widget-job-details .widget-title::before{
+    position: absolute;
+    content: "";
+    height: 1px;
+    width: 100%;
+    left: 0;
+    bottom: -15px;
+    background-color: #E4E7EB;
+}
+
+.widget-job-details .single-job-details {
+    margin-bottom: 25px;
+}
+
+.widget-job-details .single-job-details img {
+    margin-top: 2px;
+}
+
+.widget-job-details .single-job-details .media-body {
+    margin-left: 25.25px;
+}
+
+.widget-job-details .single-job-details .media-body h6 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #535764;
+    margin-bottom: 10px;
+}
+
+.widget-job-details .single-job-details .media-body span {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.3px;
+    color: #97A1B3;
+}
+
+@media (max-width: 1550px){
+    .widget-job-details .single-job-details .media-body h6{
+        font-size: 18px;
+        margin-bottom: 8px
+    }
+    .widget-job-details .single-job-details .media-body span{
+        font-size: 14px;
+    }
+}
+
+.job-details h4{
+    letter-spacing: 0.24px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #191b16;
+}
+
+.job-details ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.job-details ul li{
+    letter-spacing: 0.3px;
+    color: #5B6880;
+    position: relative;
+    padding-left: 18px;
+    font-size: 14px;
+    line-height: 1.9;
+}
+
+.job-details ul li::after{
+    content: '';
+    position: absolute;
+    height: 5px;
+    width: 5px;
+    left: 0;
+    top: 13px;
+    border-radius: 50%;
+    background: #5B6880;
+}
+
+@media(max-width: 1550px){
+    .job-details ul li::after{
+        top: 10px;
+    }
+}
+
+.job-details p{
+    color: #5B6880;
+    font-size: 14px;
+}
+
+.job-btn{
+    margin-top: 70px;
+} 
+
+.job-btn a{
+    box-shadow: 0px 3px 10px #f58220;
+    background-color: #f58220;
+    color: #fff;
+    font-size: 14px;
+    padding: 12px 30px;
+    transition: all .3s ease;
+    line-height: 44px;
+    border-radius: 4px;
+    letter-spacing: .3px;
+}
+
+.job-btn a:hover{
+    background-color: transparent;
+    color: #f58220;
 }

@@ -1123,6 +1123,10 @@
     .contact-us .single-head{
         margin-top: 50px;
     }
+    .job-btn {
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
 }
 
 @media(max-width: 767px){
@@ -1353,5 +1357,27 @@
     }
     .contact-us .single-head{
         padding: 50px 25px;
+    }
+    .single-job-list{
+        flex-direction: column;
+        text-align: center;
+    }
+    .single-job-list .media-body{
+        border-top: 1px solid #eeebf7;
+        border-left: none;
+        margin-top: 26.5px;
+        padding-top: 26.5px;
+        margin-left: 0;
+        padding-left: 0;
+        margin-bottom: 20px;
+    }
+    .career-head{
+        text-align: center;
+    }
+    .career-head h2{
+        font-size: 30px;
+    }
+    .pr-100{
+        padding-right: 15px !important;
     }
 }
