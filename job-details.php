@@ -61,7 +61,7 @@
                             <h4>Salary</h4>
                             <p>Negotiable</p>
                             <div class="job-btn">
-                                <a href="">Apply Now</a>
+                                <a href="job-apply.php">Apply Now</a>
                             </div>
                         </div>
 

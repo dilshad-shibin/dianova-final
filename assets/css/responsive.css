@@ -1380,4 +1380,11 @@
     .pr-100{
         padding-right: 15px !important;
     }
+    .job-apply-area {
+        padding: 80px 32px;
+    }
+    .apply-head p{
+        font-size: 15px;
+        line-height: 28px;
+    }
 }
