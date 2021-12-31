@@ -19,29 +19,75 @@
         <?php include('header/header.php'); ?>
 
         <!-- ***** Welcome Area Start ***** -->
-        <section class="welcome-area-start">
-                    <div class="section welcome-area d-flex align-items-center">
-                        <div class="banner-overlay"></div>
-                        <div class="container">
-                            <div class="row align-items-center">
-                                <div class="col-12 col-lg-6"></div>
-                                <div class="col-12 col-lg-6">
-                                    <div class="welcome-intro">
-                                        <div class="intro-head">
-                                            <h2>20</h2>
-                                            <p>Years of Experience</p>
-                                        </div>
-                                        <h1>Lorem ipsum is simply</h1>
-                                        <div class="intro-btn">
-                                            <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
-                                        </div>
+        <!-- <section class="welcome-area-start">
+            <div class="section welcome-area d-flex align-items-center">
+                <div class="banner-overlay"></div>
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-12 col-lg-6"></div>
+                        <div class="col-12 col-lg-6">
+                            <div class="welcome-intro">
+                                <div class="intro-head">
+                                    <h2>20</h2>
+                                    <p>Years of Experience</p>
+                                </div>
+                                <h1>Lorem ipsum is simply</h1>
+                                <div class="intro-btn">
+                                    <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+
+        <section class="hero hero-style-1">
+            <div class="hero-slider">
+                <div class="slide">
+                    <div class="container">
+                        <img src="assets/img/banner/dianova-banner.jpg" alt class="slider-bg">
+                        <div class="row align-items-center h-785">
+                            <div class="col-12 col-lg-6"></div>
+                            <div class="col-12 col-lg-6">
+                                <div class="welcome-intro">
+                                    <div class="intro-head">
+                                        <h2>20</h2>
+                                        <p>Years of Experience</p>
+                                    </div>
+                                    <h1>Lorem ipsum is simply</h1>
+                                    <div class="intro-btn">
+                                        <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div> 
+                    </div>
+                </div><!-- slide close -->
+
+                <div class="slide">
+                    <div class="container">
+                        <img src="assets/img/banner/banner2.jpg" alt class="slider-bg">
+                        <div class="row align-items-center h-785">
+                            <div class="col-12 col-lg-6"></div>
+                            <div class="col-12 col-lg-6">
+                                <div class="welcome-intro">
+                                    <div class="intro-head">
+                                        <h2>20</h2>
+                                        <p>Years of Experience</p>
+                                    </div>
+                                    <h1>Lorem ipsum is simply dummy</h1>
+                                    <div class="intro-btn">
+                                        <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- slide close -->
+            </div>
         </section>
-        
+
         <!-- ***** About Area Start ***** -->
         <section class="section about-area ptb_100">
             <div class="container">
@@ -52,41 +98,41 @@
                             <h2>Dianova Laboratories</h2>
                         </div>
                         <div class="count-area d-flex">
-                                <div class="counter-box">
-                                    <div class="head-count">
-                                        <h2 class="counter">20000</h2>
-                                        <span>+</span>
-                                    </div>
-                                    <p>Happy Patients</p>
+                            <div class="counter-box">
+                                <div class="head-count">
+                                    <h2 class="counter">20000</h2>
+                                    <span>+</span>
                                 </div>
-                                <div class="counter-box">
-                                    <div class="head-count">
-                                        <h2 class="counter">129</h2>
-                                        <span>+</span>
-                                    </div>
-                                    <p>Qualified Doctors</p>
+                                <p>Happy Patients</p>
+                            </div>
+                            <div class="counter-box">
+                                <div class="head-count">
+                                    <h2 class="counter">129</h2>
+                                    <span>+</span>
                                 </div>
-                                <div class="counter-box">
-                                    <div class="head-count">
-                                        <h2 class="counter">850</h2>
-                                        <span>+</span>
-                                    </div>
-                                    <p>Clinic Rooms</p>
+                                <p>Qualified Doctors</p>
+                            </div>
+                            <div class="counter-box">
+                                <div class="head-count">
+                                    <h2 class="counter">850</h2>
+                                    <span>+</span>
                                 </div>
-                                <div class="counter-box">
-                                    <div class="head-count">
-                                        <h2 class="counter">456</h2>
-                                        <!-- <span>+</span> -->
-                                    </div>
-                                    <p>Award Wons</p>
+                                <p>Clinic Rooms</p>
+                            </div>
+                            <div class="counter-box">
+                                <div class="head-count">
+                                    <h2 class="counter">456</h2>
+                                    <!-- <span>+</span> -->
                                 </div>
+                                <p>Award Wons</p>
+                            </div>
                         </div>
                         <div class="iso-text">
-                            <p>AN ISO9001: 2008 Cerified Laboratory NABL Accredited Molecular 
-                                Biology Lab ICMR Approved  Covid Testing Centre</p>
+                            <p>AN ISO9001: 2008 Cerified Laboratory NABL Accredited Molecular
+                                Biology Lab ICMR Approved Covid Testing Centre</p>
                         </div>
                         <div class="about-text">
-                            <p>Dianova Laboratories have been established with a view to provide wide range of Laboratory  investigations, necessary for patient care.  It consists of disciplines of Endocrinology, Molecular Biology, Infections Diseases, Special & Routine Biochemistry, Immunology, Microbiology & Serology, Clinical Pathology, Hematology 
+                            <p>Dianova Laboratories have been established with a view to provide wide range of Laboratory investigations, necessary for patient care. It consists of disciplines of Endocrinology, Molecular Biology, Infections Diseases, Special & Routine Biochemistry, Immunology, Microbiology & Serology, Clinical Pathology, Hematology
                                 and Histopathology. </p>
                         </div>
                         <div class="about-btn">
@@ -239,7 +285,7 @@
                                     <a href="molecular-biology.php">Read More</a>
                                 </div>
                             </div><!-- 16th right side view -->
-                            
+
                         </div>
                     </div>
 
@@ -252,132 +298,132 @@
                                     <a href="#first" class="nav-link" id="first-tab" data-toggle="tab" role="tab" aria-controls="first" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/1.png" alt="">
-                                        </div> 
-                                        <h3>Biochemistry</h3>               
+                                        </div>
+                                        <h3>Biochemistry</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#second" class="nav-link" id="second-tab" data-toggle="tab" role="tab" aria-controls="second" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/4.png" alt="">
-                                        </div> 
-                                        <h3>Serology</h3>               
+                                        </div>
+                                        <h3>Serology</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#third" class="nav-link" id="third-tab" data-toggle="tab" role="tab" aria-controls="third" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/7.png" alt="">
-                                        </div> 
-                                        <h3>Microbiology</h3>               
+                                        </div>
+                                        <h3>Microbiology</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 1 --> 
+                            </ul><!-- Single Slider 1 -->
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
                                     <a href="#forth" class="nav-link" id="forth-tab" data-toggle="tab" role="tab" aria-controls="forth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/2.png" alt="">
-                                        </div> 
-                                        <h3>Cytopathology</h3>               
+                                        </div>
+                                        <h3>Cytopathology</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#fifth" class="nav-link" id="fifth-tab" data-toggle="tab" role="tab" aria-controls="fifth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/5.png" alt="">
-                                        </div> 
-                                        <h3>Radiology</h3>               
+                                        </div>
+                                        <h3>Radiology</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#sixth" class="nav-link" id="sixth-tab" data-toggle="tab" role="tab" aria-controls="sixth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/8.png" alt="">
-                                        </div> 
-                                        <h3>Endocrinology</h3>               
+                                        </div>
+                                        <h3>Endocrinology</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 2 --> 
+                            </ul><!-- Single Slider 2 -->
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
                                     <a href="#seventh" class="nav-link" id="seventh-tab" data-toggle="tab" role="tab" aria-controls="seventh" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/3.png" alt="">
-                                        </div> 
-                                        <h3>Doppler Ultrasound </h3>               
+                                        </div>
+                                        <h3>Doppler Ultrasound </h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#eighth" class="nav-link" id="eighth-tab" data-toggle="tab" role="tab" aria-controls="eighth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/6.png" alt="">
-                                        </div> 
-                                        <h3>Prenetal Screening</h3>               
+                                        </div>
+                                        <h3>Prenetal Screening</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#nineth" class="nav-link" id="nineth-tab" data-toggle="tab" role="tab" aria-controls="nineth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/9.png" alt="">
-                                        </div> 
-                                        <h3>Allergy Profiles</h3>               
+                                        </div>
+                                        <h3>Allergy Profiles</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 3 --> 
+                            </ul><!-- Single Slider 3 -->
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
                                     <a href="#tenth" class="nav-link" id="tenth-tab" data-toggle="tab" role="tab" aria-controls="tenth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/2.png" alt="">
-                                        </div> 
-                                        <h3>Imaging (Advanced 4D)</h3>               
+                                        </div>
+                                        <h3>Imaging (Advanced 4D)</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#eleventh" class="nav-link" id="eleventh-tab" data-toggle="tab" role="tab" aria-controls="eleventh" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/5.png" alt="">
-                                        </div> 
-                                        <h3>Histopathology</h3>               
+                                        </div>
+                                        <h3>Histopathology</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#tweleve" class="nav-link" id="tweleve-tab" data-toggle="tab" role="tab" aria-controls="tweleve" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/8.png" alt="">
-                                        </div> 
-                                        <h3>Clinical Pathology</h3>               
+                                        </div>
+                                        <h3>Clinical Pathology</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 4 --> 
+                            </ul><!-- Single Slider 4 -->
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
                                     <a href="#thirteenth" class="nav-link" id="thirteenth-tab" data-toggle="tab" role="tab" aria-controls="thirteenth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/2.png" alt="">
-                                        </div> 
-                                        <h3>Hematology</h3>               
+                                        </div>
+                                        <h3>Hematology</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#forteenth" class="nav-link" id="forteenth-tab" data-toggle="tab" role="tab" aria-controls="forteenth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/5.png" alt="">
-                                        </div> 
-                                        <h3>Clinical Chemistry</h3>               
+                                        </div>
+                                        <h3>Clinical Chemistry</h3>
                                     </a>
                                 </li>
                                 <li class="nav-item service-box">
                                     <a href="#fifteenth" class="nav-link" id="fifteenth-tab" data-toggle="tab" role="tab" aria-controls="fifteenth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/8.png" alt="">
-                                        </div> 
-                                        <h3>Immunoassay</h3>               
+                                        </div>
+                                        <h3>Immunoassay</h3>
                                     </a>
                                 </li>
                             </ul><!-- Single Slider 5 -->
@@ -387,12 +433,12 @@
                                     <a href="#sixteenth" class="nav-link" id="sixteenth-tab" data-toggle="tab" role="tab" aria-controls="sixteenth" aria-selected="false">
                                         <div class="icon">
                                             <img src="assets/img/services/2.png" alt="">
-                                        </div> 
-                                        <h3>Molecular Biology</h3>               
+                                        </div>
+                                        <h3>Molecular Biology</h3>
                                     </a>
                                 </li>
                             </ul><!-- Single Slider 6 -->
-                            
+
 
                         </div>
                     </div>
@@ -415,7 +461,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div  class="col-lg-4 col-md-6 col-12">
+                    <div class="col-lg-4 col-md-6 col-12">
                         <div class="pg-box pg-box-1">
                             <div class="pg-box-inner">
                                 <span>Senior</span>
@@ -451,7 +497,7 @@
                             </div>
                         </div>
                     </div>
-                   
+
                 </div>
                 <div class="row">
                     <div class="col-12 text-center">
@@ -541,7 +587,7 @@
                                     <img src="assets/img/quote.png" alt="">
                                 </div>
                                 <div class="inner">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the 
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the
                                         industry's standard dummy text ever since the 1500s</p>
                                 </div>
                                 <div class="details">
@@ -554,7 +600,7 @@
                                     <img src="assets/img/quote.png" alt="">
                                 </div>
                                 <div class="inner">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the 
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the
                                         industry's standard dummy text ever since the 1500s</p>
                                 </div>
                                 <div class="details">
@@ -567,7 +613,7 @@
                                     <img src="assets/img/quote.png" alt="">
                                 </div>
                                 <div class="inner">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the 
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the
                                         industry's standard dummy text ever since the 1500s</p>
                                 </div>
                                 <div class="details">
@@ -590,9 +636,13 @@
                             <div class="ct-right-bg"></div>
                             <div class="health-bg-bottom"></div>
                             <div class="ct-bx-inner">
-                                <div class="head"><h1>Lorem ipsum is simply dummy text</h1></div>
-                                <div class="text"><p>Lorem Ipsum is simply dummy text of the printing and 
-                                    typesetting industry. </p></div>
+                                <div class="head">
+                                    <h1>Lorem ipsum is simply dummy text</h1>
+                                </div>
+                                <div class="text">
+                                    <p>Lorem Ipsum is simply dummy text of the printing and
+                                        typesetting industry. </p>
+                                </div>
                                 <div class="ct-bx-btns d-flex align-items-center">
                                     <div class="bx-one">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
@@ -615,7 +665,7 @@
         <!--====== Footer Area Start ======-->
         <?php include('footer/footer.php'); ?>
 
-    </div>  
+    </div>
 
     <!-- ***** All jQuery Plugins ***** -->
 

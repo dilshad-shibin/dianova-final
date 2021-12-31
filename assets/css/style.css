@@ -25,6 +25,7 @@
 :: 23.0 BRANCHES PAGE AREA CSS
 :: 24.0 CONTACT PAGE AREA CSS
 :: 25.0 CAREERS PAGE AREA CSS
+:: 26.0 NEW BANNER AREA CSS
 ****************************** */
 
 /* ******************************
@@ -700,10 +701,6 @@ img {
     background-position: center;
     background-repeat: no-repeat;
     height: 785px;
-}
-
-.welcome-intro{
-    margin-top: -50px;
 }
 
 .welcome-intro h3{
@@ -3179,4 +3176,67 @@ footer{
 
 .custom-file-label::after{
     display: none;
+}
+
+
+
+/* *********************************
+:: 26.0 NEW BANNER AREA CSS
+********************************** */
+.hero-style-1{
+    height: 785px;
+    position: relative;
+}
+
+.hero .slick-prev, .hero .slick-next {
+    background-color: #f58220;
+    width: 55px;
+    height: 55px;
+    z-index: 10;
+    border-radius: 50%;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.hero .slick-prev {
+    left: -100px;
+}
+
+.hero .slick-next {
+    right: -100px;
+}
+
+.hero:hover .slick-next {
+    right: 25px;
+}
+
+.hero:hover .slick-prev {
+    left: 25px;
+}
+
+.hero .slick-prev:before {
+    font-family: "themify";
+    content: "\e629";
+    opacity: 1;
+}
+
+.hero .slick-next:before {
+    font-family: "themify";
+    content: "\e628";
+    opacity: 1;
+}
+
+.hero-style-1 .slide{
+    height: 785px;
+}
+
+.hero .slide .slider-bg {
+    display: none;
+}
+
+.hero .h-785{
+    height: 785px;
 }

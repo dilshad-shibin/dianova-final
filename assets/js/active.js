@@ -87,6 +87,44 @@
         }, 1000);
     });
 
+    // Hero slider background setting
+    function sliderBgSetting() {
+        if ($(".hero-slider .slide").length) {
+            $(".hero-slider .slide").each(function() {
+                var $this = $(this);
+                var img = ($this.find(".slider-bg").attr("src")) ? $this.find(".slider-bg").attr("src") : false;
+
+                if (img) {
+                    $this.css({
+                        backgroundImage: "url(" + img + ")",
+                        backgroundSize: "cover",
+                        backgroundPosition: "center center"
+                    })
+                }
+            });
+        }
+    }
+
+    sliderBgSetting();
+
+
+    //Setting hero slider
+    function heroSlider() {
+        if ($(".hero-slider").length) {
+            $(".hero-slider").slick({
+                arrows: true,
+                prevArrow: '<button type="button" class="slick-prev">Previous</button>',
+                nextArrow: '<button type="button" class="slick-next">Next</button>',
+                dots: true,
+                fade: true,
+                cssEase: 'linear',
+            });
+        }
+    }
+
+    //Active heor slider
+    heroSlider();
+
     // :: 9.0 COUNTERUP ACTIVE CODE
     $('.counter').counterUp({
         delay: 10,
@@ -198,6 +236,15 @@
     $(".nav-tab-link").hover(function(){
         $(this).tab("show")
     })
+
+    /*==========================================================================
+        WHEN DOCUMENT LOADING
+    ==========================================================================*/
+    $(window).on('load', function() {
+
+        sliderBgSetting();
+
+    });
 
 
     // :: 12.0 CONTACT FORM ACTIVE CODE
