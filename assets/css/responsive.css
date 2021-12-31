@@ -1432,4 +1432,8 @@
     .slick-dots li{
         margin: 0;
     }
+    .hero .slick-dots button:before,
+    .hero .slick-dots button:before {
+        display: none;
+    }
 }
