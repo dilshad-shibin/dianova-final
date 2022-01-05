@@ -37,9 +37,9 @@
                 <div class="row">
                     <div class="col-12 text-center">
                         <div class="content-area">
-                            <p>Established in 2001 Dianova a unit of Dianova Diagnostics Pvt. Ltd. is fast emerging as a leader in Medical Laboratory services in Kerala.  Having set up its ultramodern Central processing Laboratory in Kottayam,Trivandrum and Eranakulam, Dianova Laboratories is in the process of setting up centers all over the State of Kerala. As a Committed partner in health, we have earned our exceptional reputation by offering unparalleled service tio our clients, care and compassion to our patients, and access to vast medical and technical resources to our customers.</p>
-                            <p>Dianova Laboratories offers a wide range of health checkup packages to cover all age groups and all the sexes. These packages have been very thoughtfully formulated by a team of highly qualified and experienced medical professionals.  All Investigations are carries out on the art computerized equipments. Dianova is Kerala's best fully automated diagnostic laboratary with a focus on providing quality services at affordable costs all over Kerala.</p>
-                            <p>Dianova is Kerala's best ICMR approved COVID-19 testing centre. We have focus on strong technologies, strong brands and strong systems that enable our laborataries to give their clients the best of science and technology at an affordable cost.</p>
+                            <p>Established in 2001, Dianova a unit of Dianova Diagnostics Pvt. Ltd. is fast emerging as a leader in Medical Laboratory services in Kerala. Having set up its ultramodern Central processing Laboratory in Kottayam,Trivandrum and Ernakulam, Dianova Laboratories is in the process of setting up centers all over the State of Kerala. As a Committed partner in health, we have earned our exceptional reputation by offering unparalleled service to our clients, care and compassion to our patients, and access to vast medical and technical resources to our customers.</p>
+                            <p>Dianova Laboratories offers a wide range of health checkup packages to cover all age groups and all the sexes. These packages have been very thoughtfully formulated by a team of highly qualified and experienced medical professionals. All Investigations are carried out on the art computerized equipment. Dianova is Kerala's best fully automated diagnostic laboratory with a focus on providing quality services at affordable costs all over Kerala.</p>
+                            <p>Dianova is Kerala's best ICMR approved COVID-19 testing centre. We focus on strong technologies, strong brands and strong systems that enable our laboratories to give their clients the best of science and technology at an affordable cost.</p>
                         </div>
                     </div>
                 </div>
@@ -220,7 +220,7 @@
                 <div class="row">
                     <div class="col-12 text-center">
                         <div class="policy-text">
-                            <p>We dedicate ourselves towards excellence in healthcare by providing quality diagnostic services following approved test methodologies and using a diligent professional team and strive to achieve satisfaction of its user.</p>
+                            <p>We dedicate ourselves towards excellence in healthcare by providing quality diagnostic services following approved test methodologies and using a diligent professional team and strive to achieve satisfaction of its users.</p>
                         </div>
                     </div>
                 </div>
@@ -237,11 +237,11 @@
                     <ul>
                         <li class="d-flex">
                             <div class="img-dtb"><img src="assets/img/dot.png" alt=""> </div>
-                            <div>To comply with ISO 15189:2012 standards at all time.</div>
+                            <div>To comply with ISO 15189:2012 standards at all times.</div>
                         </li>
                         <li class="d-flex">
                             <div class="img-dtb"><img src="assets/img/dot.png" alt=""> </div>
-                            <div>To maintain excellence and keeping pace with the latest developments in clinical diagnostic services.</div>
+                            <div>To maintain excellence and keep pace with the latest developments in clinical diagnostic services.</div>
                         </li>
                         <li class="d-flex">
                             <div class="img-dtb"><img src="assets/img/dot.png" alt=""> </div>
@@ -274,35 +274,7 @@
         </section>
 
         <!-- ***** Contact Banner Area Start ***** -->
-        <section class="contact-banner contact-banner2 section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="ct-box">
-                            <div class="ct-right-bg"></div>
-                            <div class="health-bg-bottom"></div>
-                            <div class="ct-bx-inner">
-                                <div class="head"><h1>Lorem ipsum is simply dummy text</h1></div>
-                                <div class="text"><p>Lorem Ipsum is simply dummy text of the printing and 
-                                    typesetting industry. </p></div>
-                                <div class="ct-bx-btns d-flex align-items-center">
-                                    <div class="bx-one">
-                                        <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
-                                    </div>
-                                    <div class="bx-two d-flex align-items-center">
-                                        <div class="icon"><i class="fas fa-phone-alt"></i></div>
-                                        <div class="num d-flex flex-column">
-                                            <a href="tel:04812303722">0481 2303722</a>
-                                            <a href="tel:04812583722" class="num-last">0481 2583722</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include('footer/contact-footer2.php'); ?>
 
         <!--====== Footer Area Start ======-->
         <?php include('footer/footer.php'); ?>

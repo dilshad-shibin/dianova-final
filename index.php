@@ -55,7 +55,7 @@
                                         <h2>20</h2>
                                         <p>Years of Experience</p>
                                     </div>
-                                    <h1>Lorem ipsum is simply</h1>
+                                    <h1>Expertise. Accuracy. Service</h1>
                                     <div class="intro-btn">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
                                     </div>
@@ -128,12 +128,10 @@
                             </div>
                         </div>
                         <div class="iso-text">
-                            <p>AN ISO9001: 2008 Cerified Laboratory NABL Accredited Molecular
-                                Biology Lab ICMR Approved Covid Testing Centre</p>
+                            <p>AN ISO 9001: 2008 Certified Laboratory NABL Accredited Molecular Biology Lab ICMR Approved Covid Testing Centre</p>
                         </div>
                         <div class="about-text">
-                            <p>Dianova Laboratories have been established with a view to provide wide range of Laboratory investigations, necessary for patient care. It consists of disciplines of Endocrinology, Molecular Biology, Infections Diseases, Special & Routine Biochemistry, Immunology, Microbiology & Serology, Clinical Pathology, Hematology
-                                and Histopathology. </p>
+                            <p>Dianova Laboratories have been established with a view to provide a wide range of Laboratory investigations, necessary for patient care. It consists of disciplines of Endocrinology, Molecular Biology, Infections Diseases, Special & Routine Biochemistry, Immunology, Microbiology & Serology, Clinical Pathology, Hematology and Histopathology.</p>
                         </div>
                         <div class="about-btn">
                             <a href="about.php">Read More <i class="fas fa-chevron-right"></i></a>
@@ -160,7 +158,7 @@
 
                             <div class="tab-pane fade" id="first" role="tabpanel" aria-labelledby="first-tab">
                                 <h2>Biochemistry</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms..</p>
                                 <div class="service-btn">
                                     <a href="biochemistry.php">Read More</a>
                                 </div>
@@ -168,7 +166,7 @@
 
                             <div class="tab-pane fade" id="second" role="tabpanel" aria-labelledby="second-tab">
                                 <h2>Serology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Serology is the scientific study of serum and other bodily fluids. In practice, the term usually refers to the..</p>
                                 <div class="service-btn">
                                     <a href="serology.php">Read More</a>
                                 </div>
@@ -176,7 +174,7 @@
 
                             <div class="tab-pane fade" id="third" role="tabpanel" aria-labelledby="third-tab">
                                 <h2>Microbiology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Microbiology, the study of microorganisms, or microbes, a diverse group of generally minute simple life-forms..</p>
                                 <div class="service-btn">
                                     <a href="microbiology.php">Read More</a>
                                 </div>
@@ -184,7 +182,7 @@
 
                             <div class="tab-pane fade" id="forth" role="tabpanel" aria-labelledby="forth-tab">
                                 <h2>Cytopathology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Cytopathology is a diagnostic technique that examines cells from various body sites to determine the cause..</p>
                                 <div class="service-btn">
                                     <a href="cytopathology.php">Read More</a>
                                 </div>
@@ -192,7 +190,7 @@
 
                             <div class="tab-pane fade" id="fifth" role="tabpanel" aria-labelledby="fifth-tab">
                                 <h2>Radiology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Radiology is a specialty that uses medical imaging to diagnose and treat diseases seen within the body..</p>
                                 <div class="service-btn">
                                     <a href="radiology.php">Read More</a>
                                 </div>
@@ -200,7 +198,7 @@
 
                             <div class="tab-pane fade" id="sixth" role="tabpanel" aria-labelledby="sixth-tab">
                                 <h2>Endocrinology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Endocrinology is the study of hormones. Hormones are essential for our everyday survival. They..</p>
                                 <div class="service-btn">
                                     <a href="endocrinology.php">Read More</a>
                                 </div>
@@ -208,7 +206,7 @@
 
                             <div class="tab-pane fade" id="seventh" role="tabpanel" aria-labelledby="seventh-tab">
                                 <h2>Doppler Ultrasound</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Doppler ultrasound is a noninvasive test that can be used to estimate the blood flow through your blood vessels by..</p>
                                 <div class="service-btn">
                                     <a href="doppler-ultrasound.php">Read More</a>
                                 </div>
@@ -216,7 +214,7 @@
 
                             <div class="tab-pane fade" id="eighth" role="tabpanel" aria-labelledby="eighth-tab">
                                 <h2>Prenetal Screening</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Prenatal screening is a way for you to determine the chance your baby may or may not have trisomy 21..</p>
                                 <div class="service-btn">
                                     <a href="prenatal-screening.php">Read More</a>
                                 </div>
@@ -224,7 +222,7 @@
 
                             <div class="tab-pane fade" id="nineth" role="tabpanel" aria-labelledby="nineth-tab">
                                 <h2>Allergy Profiles</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Keeping up with the time, we know how important it is to deliver our service quickly and accurately..</p>
                                 <div class="service-btn">
                                     <a href="allergy-profiles.php">Read More</a>
                                 </div>
@@ -232,7 +230,7 @@
 
                             <div class="tab-pane fade" id="tenth" role="tabpanel" aria-labelledby="tenth-tab">
                                 <h2>Imaging (Advanced 4D)</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Like regular ultrasounds, 3D and 4D ultrasounds use sound waves to create an image of your baby..</p>
                                 <div class="service-btn">
                                     <a href="imaging-ultrasound-scanning.php">Read More</a>
                                 </div>
@@ -240,7 +238,7 @@
 
                             <div class="tab-pane fade" id="eleventh" role="tabpanel" aria-labelledby="eleventh-tab">
                                 <h2>Histopathology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Histopathology is the diagnosis and study of diseases of the tissues and involves examining tissues..</p>
                                 <div class="service-btn">
                                     <a href="histopathology.php">Read More</a>
                                 </div>
@@ -248,7 +246,7 @@
 
                             <div class="tab-pane fade" id="tweleve" role="tabpanel" aria-labelledby="tweleve-tab">
                                 <h2>Clinical Pathology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Clinical pathology (Medical Laboratory) is a medical specialty that is concerned with the diagnosis of..</p>
                                 <div class="service-btn">
                                     <a href="clinical-pathology.php">Read More</a>
                                 </div>
@@ -256,7 +254,7 @@
 
                             <div class="tab-pane fade" id="thirteenth" role="tabpanel" aria-labelledby="thirteenth-tab">
                                 <h2>Hematology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Hematology is the science or study of blood, blood-forming organs, and blood diseases. In the medical..</p>
                                 <div class="service-btn">
                                     <a href="hematology.php">Read More</a>
                                 </div>
@@ -264,7 +262,7 @@
 
                             <div class="tab-pane fade" id="forteenth" role="tabpanel" aria-labelledby="forteenth-tab">
                                 <h2>Clinical Chemistry</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Clinical chemistry is the area of chemistry that is generally concerned with the analysis of bodily..</p>
                                 <div class="service-btn">
                                     <a href="clinical-chemistry.php">Read More</a>
                                 </div>
@@ -272,7 +270,7 @@
 
                             <div class="tab-pane fade" id="fifteenth" role="tabpanel" aria-labelledby="fifteenth-tab">
                                 <h2>Immunoassay</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>An immunoassay is a biochemical test that measures the presence or concentration of a macromolecule..</p>
                                 <div class="service-btn">
                                     <a href="immunoassay.php">Read More</a>
                                 </div>
@@ -280,7 +278,7 @@
 
                             <div class="tab-pane fade" id="sixteenth" role="tabpanel" aria-labelledby="sixteenth-tab">
                                 <h2>Molecular Biology</h2>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab aliquid veritatis commodi quia architecto vero ullam sequi sunt temporibus at cumque adipisci dolor laudantium dolorum, libero harum similique aliquam vitae!</p>
+                                <p>Molecular biology, the field of science concerned with studying the chemical structures and processes..</p>
                                 <div class="service-btn">
                                     <a href="molecular-biology.php">Read More</a>
                                 </div>
@@ -466,9 +464,9 @@
                             <div class="pg-box-inner">
                                 <span>Senior</span>
                                 <h2>Health Checkup</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <p>A basic health check designed for senior citizens to test problems related to old age.</p>
                                 <div class="package-btn">
-                                    <a href="#">View Package</a>
+                                    <a href="senior-health-package-details.php">View Package</a>
                                 </div>
                             </div>
                         </div>
@@ -478,9 +476,9 @@
                             <div class="pg-box-inner">
                                 <span>Women</span>
                                 <h2>Health Checkup</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <p>Some special exams and screenings, for women to detect problems early.</p>
                                 <div class="package-btn">
-                                    <a href="#">View Package</a>
+                                    <a href="senior-health-package-details.php">View Package</a>
                                 </div>
                             </div>
                         </div>
@@ -490,9 +488,9 @@
                             <div class="pg-box-inner">
                                 <span>Healthy Man</span>
                                 <h2>Basic Package</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                <p>A basic health checkup specifically designed to detect the health issues of men.</p>
                                 <div class="package-btn">
-                                    <a href="#">View Package</a>
+                                    <a href="senior-health-package-details.php">View Package</a>
                                 </div>
                             </div>
                         </div>
@@ -544,7 +542,7 @@
                                     <img src="assets/img/online-reporting.png" alt="">
                                 </div>
                                 <div class="text">
-                                    <p>Making it hassle-free for patients, our online reporting facility enables them to receive the test results without missing out on all essential data..</p>
+                                    <p>Making it hassle-free for patients, our online reporting facility enables them to receive the test results without missing out on all essential data.</p>
                                 </div>
                             </div>
                         </div>
@@ -559,7 +557,7 @@
                                     <img src="assets/img/database-reporting.png" alt="">
                                 </div>
                                 <div class="text">
-                                    <p>Users could avail medical reports online for up to 6 months, which help have a better understanding of the diagnosis history besides easy access to the reports anytime, anywhere.</p>
+                                    <p>Users can avail medical reports online for up to 6 months, which help have a better understanding of the diagnosis history besides easy access to the reports anytime, anywhere.</p>
                                 </div>
                             </div>
                         </div>
@@ -587,8 +585,7 @@
                                     <img src="assets/img/quote.png" alt="">
                                 </div>
                                 <div class="inner">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the
-                                        industry's standard dummy text ever since the 1500s</p>
+                                    <p>I had a great experience at the Dianova Lab. Everything is managed well and the services are really quality-oriented. Tests are conducted in a clean environment. Getting an appointment is hassle-free. We do not have to wait much for the results. You can trust Dianova!</p>
                                 </div>
                                 <div class="details">
                                     <h3>Joseph Mathew</h3>
@@ -600,12 +597,11 @@
                                     <img src="assets/img/quote.png" alt="">
                                 </div>
                                 <div class="inner">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the
-                                        industry's standard dummy text ever since the 1500s</p>
+                                    <p>I did a Blood and Urine test from Dianova recently. The samples were collected as per the agreed time and the test was conducted with all precautions. Reports were delivered within no time and the results were quite accurate. I recommend Dianova  to all, since the approach here is highly professional from start to end.</p>
                                 </div>
                                 <div class="details">
-                                    <h3>Mohan Kumar</h3>
-                                    <span>Kakkanad, Ernakulam</span>
+                                    <h3>Sreekumar</h3>
+                                    <span>Kannathara</span>
                                 </div>
                             </div>
                             <div class="single-testi">
@@ -613,12 +609,11 @@
                                     <img src="assets/img/quote.png" alt="">
                                 </div>
                                 <div class="inner">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum has been the
-                                        industry's standard dummy text ever since the 1500s</p>
+                                    <p>Dianova is a very friendly and productive team. The communication process was very smooth, and Dianova provided what we required accurately and promptly. The report presented the analysis in a clear fashion, which was easy to understand. I would definitely recommend Dianova to friends and family.</p>
                                 </div>
                                 <div class="details">
-                                    <h3>Athul Devassy</h3>
-                                    <span>Vadakkan, Thrissur</span>
+                                    <h3>Ligi Raju</h3>
+                                    <span>Thrissur</span>
                                 </div>
                             </div>
                         </div>
@@ -628,39 +623,7 @@
         </section>
 
         <!-- ***** Contact Banner Area Start ***** -->
-        <section class="contact-banner section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="ct-box">
-                            <div class="ct-right-bg"></div>
-                            <div class="health-bg-bottom"></div>
-                            <div class="ct-bx-inner">
-                                <div class="head">
-                                    <h1>Lorem ipsum is simply dummy text</h1>
-                                </div>
-                                <div class="text">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and
-                                        typesetting industry. </p>
-                                </div>
-                                <div class="ct-bx-btns d-flex align-items-center">
-                                    <div class="bx-one">
-                                        <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
-                                    </div>
-                                    <div class="bx-two d-flex align-items-center">
-                                        <div class="icon"><i class="fas fa-phone-alt"></i></div>
-                                        <div class="num d-flex flex-column">
-                                            <a href="tel:04812303722">0481 2303722</a>
-                                            <a href="tel:04812583722" class="num-last">0481 2583722</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include('footer/contact-footer.php'); ?>
 
         <!--====== Footer Area Start ======-->
         <?php include('footer/footer.php'); ?>

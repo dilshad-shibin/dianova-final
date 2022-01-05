@@ -64,7 +64,7 @@
                             </div>
                             <h2>Clinical Pathology</h2>
                             <div class="text">
-                                <p>Histopathology is the diagnosis and study of diseases of the tissues and involves examining tissues and/or cells under a microscope. Histopathologists are responsible for making tissue diagnoses and helping clinicians manage a patient’s care. Histopathologists are doctors who work closely with other clinical specialties. They can reach a diagnosis by examining a small piece of tissue from the skin, liver, kidney, or other organs. This is called a biopsy. They examine the tissue carefully under a microscope, looking for changes in cells that might explain what is causing a patient’s illness. Around 20 million histopathology slides are examined each year.</p>
+                                <p>Clinical pathology (Medical Laboratory) is a medical specialty that is concerned with the diagnosis of disease based on the laboratory analysis of bodily fluids, such as blood, urine, and tissue homogenates or extracts using the tools of chemistry, microbiology, hematology and molecular pathology. This specialty requires a medical residency.</p>
                             </div>
                         </div>
                     </div>

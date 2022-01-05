@@ -711,7 +711,7 @@ img {
 
 .welcome-intro h1{
     color: #111359;
-    font-size: 65px;
+    font-size: 55px;
     font-weight: 700;
     max-width: 550px;
     letter-spacing: 1px;
@@ -2405,6 +2405,7 @@ footer{
     -ms-transition: all 400ms ease;
     -o-transition: all 400ms ease;
     transition: all 400ms ease;
+    min-height: 300px;
 }
 
 .speciality-block .inner-box:before, 
