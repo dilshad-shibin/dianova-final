@@ -80,6 +80,13 @@
         }
     })
 
+    //Auto popup
+    $(document).ready(function() {
+        setTimeout(function() {
+            $("#exampleModal10").modal('show');
+        }, 5000);
+    });
+
     //date picker
     $('#datepicker').datepicker({
         weekStart: 1,

@@ -12,13 +12,4 @@
 <script src="assets/js/plugins/plugins.min.js"></script>
 
 <!-- Active js -->
-<script src="assets/js/active.js"></script>
-
-
-<script type="text/javascript">
-            $(document).ready(function() {
-                setTimeout(function() {
-                    $("#exampleModal10").modal('show');
-                }, 5000);
-            });
-    </script> 
+<script src="assets/js/active.js"></script> 
