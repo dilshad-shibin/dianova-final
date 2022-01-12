@@ -5,13 +5,15 @@
             <img class="navbar-brand-regular" src="assets/img/logo/dianova-logo.png" alt="brand-logo">
             <img class="navbar-brand-sticky" src="assets/img/logo/dianova-logo.png" alt="sticky brand-logo">
         </a>
-        <button class="navbar-toggler d-xl-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
+        <button class="navbar-toggler d-xl-none" type="button" data-toggle="navbarToggler"
+            aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="navbar-inner">
             <!--  Mobile Menu Toggler -->
-            <button class="navbar-toggler d-xl-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
+            <button class="navbar-toggler d-xl-none" type="button" data-toggle="navbarToggler"
+                aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <nav>
@@ -41,7 +43,8 @@
                         <a class="nav-link" href="contact.php">Contact us</a>
                     </li>
                     <li class="nav-item">
-                        <a href="http://reports.dianova.in/" target="_blank" class="nav-link nav-link-btn"><img src="assets/img/online-results.png" alt=""> Online Results</a>
+                        <a href="http://reports.dianova.in/" target="_blank" class="nav-link nav-link-btn"><img
+                                src="assets/img/online-results.png" alt=""> Online Results</a>
                     </li>
                 </ul>
             </nav>
@@ -65,7 +68,8 @@
                         <div class="col-lg-6 p-0 popup-img-main2">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <a href="#" class="download-close" data-dismiss="modal" aria-label="Close"><span>X</span></a>
+                                    <a href="#" class="download-close" data-dismiss="modal"
+                                        aria-label="Close"><span>X</span></a>
                                 </div>
                                 <div id="letter5">
                                     <div class="letter_inner">
@@ -80,17 +84,20 @@
                                                             <div class="row">
                                                                 <div class="col-12 col-md-12">
                                                                     <div class="form-group">
-                                                                        <input type="text" class="form-control" placeholder="Name" required>
+                                                                        <input type="text" class="form-control"
+                                                                            placeholder="Name" required>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-12 col-md-12">
                                                                     <div class="form-group">
-                                                                        <input type="text" class="form-control" placeholder="Phone" required>
+                                                                        <input type="text" class="form-control"
+                                                                            placeholder="Phone" required>
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-12 col-md-12">
                                                                     <div class="form-group">
-                                                                        <input type="email" class="form-control" placeholder="Email" required>
+                                                                        <input type="email" class="form-control"
+                                                                            placeholder="Email" required>
                                                                     </div>
                                                                 </div>
                                                                 <!-- <div class="col-12 col-md-12">
@@ -104,6 +111,110 @@
                                                                                 </select>
                                                                             </div>
                                                                         </div> -->
+
+                                                            </div>
+                                                            <div class="row">
+                                                                <div class="col-md-12 text-center">
+                                                                    <div class="popup-btn">
+                                                                        <a href="#">Submit</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--====== Auto popup area Start ======-->
+<div class="appoint-model">
+    <div class="container">
+        <div class="col-12">
+            <div class="row">
+                <div class="modal fade order-model" id="exampleModal10" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog log-sign" role="document">
+
+                        <div class="col-lg-6 p-0 popup-img-main">
+                            <div class="popupleft-content">
+                                <div class="popup-logo">
+                                    <a href="index.html">
+                                        <img src="assets/img/logo/dianova-logo.png" alt="">
+                                    </a>
+                                </div>
+                                <h4>Book Home Collection</h4>
+                                <p>You may either book your appointment online by filling a simple online form.</p>
+                                <!-- <div class="popup-contact">
+                                    <h3>Book Scanning <a href="tel:+914812303722">0481 2303722</a></h3>
+                                    <a href="http://reports.dianova.in/" target="_blank">Online Result</a>
+                                </div> -->
+                                <!-- <h4>Our consultant will get in touch with you</h4> -->
+                            </div>
+                        </div>
+                        <div class="col-lg-6 p-0 popup-img-main2">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <a href="#" class="download-close" data-dismiss="modal"
+                                        aria-label="Close"><span>X</span></a>
+                                </div>
+                                <div id="letter5">
+                                    <div class="letter_inner">
+                                        <div class="heading color-b">
+                                            <h2 class="d-none-575">Book Now</h2>
+                                            <h2 class="mobile-view d-none">Book Home Collection</h2>
+                                        </div>
+                                        <div class="model-project-details">
+                                            <div class="heading color-b">
+                                                <div class="tab-content">
+                                                    <div role="tabpanel" class="tab-pane active tab-log" id="profile2">
+                                                        <form action="">
+                                                            <div class="row">
+                                                                <div class="col-12 col-md-12">
+                                                                    <div class="form-group">
+                                                                        <input type="text" class="form-control"
+                                                                            placeholder="Name" required>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-12">
+                                                                    <div class="form-group">
+                                                                        <input type="text" class="form-control"
+                                                                            placeholder="Phone" required>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-12">
+                                                                    <div class="form-group">
+                                                                        <input type="email" class="form-control"
+                                                                            placeholder="Email" required>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-12">
+                                                                            <div class="form-group">
+                                                                                <select name="" id="">
+                                                                                    <option value="">Select City</option>
+                                                                                    <option value="">Calicut</option>
+                                                                                    <option value="">Malappuram</option>
+                                                                                    <option value="">Kannur</option>
+                                                                                    <option value="">Wayanad</option>
+                                                                                </select>
+                                                                            </div>
+                                                                </div>
+                                                                <div class="col-12 col-md-12">
+                                                                    <div class="form-group">
+                                                                        <div class="datepicker">
+                                                                            <input class="date_icon form-control" data-date-format="dd/mm/yyyy" id="datepicker" onkeypress="return false" name="arriving" placeholder="05/01/2022" required>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
 
                                                             </div>
                                                             <div class="row">

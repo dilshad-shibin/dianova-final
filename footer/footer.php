@@ -1,3 +1,44 @@
+<!--====== Side Button Call BAck Start ======-->
+<div class="call-back-btn">
+    <a href="#" data-toggle="modal" data-target="#exampleModal0">Request Call Back</a>
+</div>
+
+<div class="social-icons-sidebar">
+    <ul class="social-sidebar">
+        <li class="fb-one">
+            <a href="" class="facebook" target="_blank">
+                <i class="fab fa-facebook-f"></i>
+                <span>Facebook</span>
+            </a>
+        </li>
+        <li class="fb-two">
+            <a href="" class="facebook" target="_blank">
+                <i class="fab fa-twitter"></i>
+                <span>Twitter</span>
+            </a>
+        </li>
+        <li class="fb-three">
+            <a href="" class="facebook" target="_blank">
+                <i class="fab fa-instagram"></i>
+                <span>Instagram</span>
+            </a>
+        </li>
+        <li>
+            <a id="" href="tel:+91481 2303722" class="facebook" target="">
+                <i class="fas fa-phone-alt"></i>
+                <span>Call&nbsp;Now</span>
+            </a>
+        </li>
+        <li>    
+            <a id="" href="https://wa.me/+914812303722" class="facebook" target="_blank">
+                <i class="fab fa-whatsapp"></i>
+                <span>Whatsapp&nbsp;Now</span>
+            </a>
+        </li>
+    </ul>
+</div>
+
+
 <!--====== Footer Area Start ======-->
 <footer class="section">
     <div class="footer-bg-bottom"></div>

@@ -26,6 +26,7 @@
 :: 24.0 CONTACT PAGE AREA CSS
 :: 25.0 CAREERS PAGE AREA CSS
 :: 26.0 NEW BANNER AREA CSS
+:: 27.0 CALL BACJK BTN AREA CSS
 ****************************** */
 
 /* ******************************
@@ -858,9 +859,9 @@ img {
     padding: 5px 16px;
 }
 
-#letter5{
+/* #letter5{
     text-align: center;
-}
+} */
 
 .letter_inner .heading {
     margin-bottom: 0px;
@@ -882,8 +883,8 @@ img {
     position: absolute;
     content: '';
     height: 2px;
-    width: 240px;
-    left: 50%;
+    width: 170px;
+    left: 30%;
     transform: translateX(-50%);
     bottom: 0;
     background: linear-gradient(to right, #f58220 0%, transparent 100%);
@@ -912,15 +913,15 @@ img {
 }
 
 #letter5 select, #letter5 input {
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
     position: relative;
-    color: #193d6f;
+    color: #999;
     resize: none;
     font-weight: 300;
     border: 0.5px solid #ccc;
     font-size: 14px;
     font-family: 'Lexend Deca', sans-serif;
-    height: 40px;
+    height: 50px;
     width: 100%;
     padding: 0 20px;
     border-radius: 3px;
@@ -931,7 +932,7 @@ img {
 
 #letter5 input:focus {
     outline: none !important;
-    border: 0.5px solid #9b1b44;
+    border: 0.5px solid #f58220;
     color: #193d6f;
 }
 
@@ -950,6 +951,8 @@ img {
     padding: 12px 50px;
     border-radius: 5px;
     transition: all .3s;
+    width: 100%;
+    display: block;
 }
 
 .popup-btn a:hover{
@@ -958,7 +961,7 @@ img {
 }
 
 .popup-btn{
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 
 .modal.fade .modal-dialog{
@@ -967,6 +970,31 @@ img {
 
 .popup-img-main{
     background-color: #f58220;
+    text-align: center;
+}
+
+.popupleft-content{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 50px;
+}
+
+.popupleft-content h4{
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.popupleft-content p{
+    color: #fff;
+    line-height: 24px;
+    font-size: 15px;
 }
 
 .popup-img{
@@ -3240,4 +3268,148 @@ footer{
 
 .hero .h-785{
     height: 785px;
+}
+
+/* ******************************
+:: 27.0 CALL BACK BTN AREA CSS
+****************************** */
+.call-back-btn a{
+    font-size: 14px;
+    text-transform: uppercase;
+    position: fixed;
+    font-weight: 500;
+    color: #fff;
+    background-color: #f58220;
+    border-radius: 4px;
+    z-index: 50;
+    top: 30%;
+    right: -72px;
+    display: flex;
+    padding: 15px 20px 15px 20px;
+    transform: rotate(-90deg);
+    text-align: center;
+    line-height: 1.5;
+    transition: all .3s ease;
+    letter-spacing: 1px;
+}
+
+.call-back-btn a:hover{
+    color: #fff;
+    background-color: #32368f;
+}
+
+.social-sidebar {
+    right: 0;
+    position: fixed;
+    top: 43%;
+    display: none;
+}
+
+.social-sidebar a {
+    background: rgba(0, 0, 0, .7);
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    height: 50px;
+    width: 50px;
+    font-size: 24px;
+    line-height: 50px;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    background: #2c2f7c;
+}
+
+.social-sidebar li:first-child a {
+    border-top-left-radius: 5px;
+}
+
+.social-sidebar li:last-child a {
+    border-bottom-left-radius: 5px;
+}
+
+.social-sidebar a span{
+    text-transform: uppercase;
+    border-radius: 3px;
+    line-height: 24px;
+    right: -100%;
+    margin-top: -16px;
+    opacity: 0;
+    padding: 4px 8px;
+    position: absolute;
+    transition: opacity .3s, left .4s;
+    top: 50%;
+    z-index: -1;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.social-sidebar a span::before{
+    content: "";
+    display: block;
+    height: 8px;
+    width: 8px;
+    right: -4px;
+    margin-top: -4px;
+    position: absolute;
+    top: 50%;
+    transform: rotate(45deg);
+}
+
+.social-sidebar a[class*="facebook"]:hover, 
+.social-sidebar a[class*="facebook"] span, 
+.social-sidebar a[class*="facebook"] span:before{
+    background-color: #f58220;
+}
+
+.social-sidebar a:hover span {
+    right: 120%;
+    opacity: 1;
+}
+
+.order-model .datepicker {
+    position: relative;
+}
+
+.order-model .datepicker:after {
+    content: "\f073";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: #999;
+    position: absolute;
+    right: 12px;
+    top: 9px;
+    z-index: 1;
+}
+
+.date_icon{
+    background: rgba(255,255,255) url(../img/calendar.svg) no-repeat center right 15px;
+    background-size: 18px;
+    padding-right: 50px;
+    border: 0px;
+    color: #595959;
+    outline: none;
+    width: 100%;
+    padding: 0 15px;
+    cursor: pointer;
+}
+
+.letter_inner .heading h2{
+    padding-left: 50px;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+.popupleft-content .popup-logo{
+    position: absolute;
+    top: 5px;
+    left: 16px;
+    background: #ffff;
+    padding: 10px;
+}
+
+.popupleft-content .popup-logo a img{
+    max-width: 150px;
 }

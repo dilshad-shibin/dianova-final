@@ -1436,4 +1436,42 @@
     .hero .slick-dots button:before {
         display: none;
     }
+    .heading h2:after{
+        left: 42%;
+    }
+    .letter_inner .heading h2.d-none-575{
+        display: none;
+    }
+    .letter_inner .heading h2.mobile-view{
+        display: block !important;
+        line-height: 24px;
+        color: #193d6f;
+        font-weight: 600;
+        position: relative;
+        padding-left: 50px;
+        font-size: 20px;
+        text-transform: capitalize;
+        margin-bottom: 30px;
+        padding-bottom: 10px;
+    }
+    .social-sidebar{
+        top: 50%;
+    }
+    .call-back-btn a{
+        font-size: 13px;
+    }
+    .social-sidebar a{
+        font-size: 20px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+    }
+    .social-sidebar .fb-one,
+    .social-sidebar .fb-two,
+    .social-sidebar .fb-three{
+        display: none;
+    }
+    .social-sidebar li:nth-child(4) a{
+        border-top-left-radius: 5px;
+    }
 }

@@ -71,6 +71,23 @@
         }, duration);
     });
 
+    //Social icons sidebar
+    $window.on("scroll",function(){
+        if($(this).scrollTop() > 300){
+            $('.social-sidebar').fadeIn(500);
+        }else{
+            $('.social-sidebar').fadeOut(500);
+        }
+    })
+
+    //date picker
+    $('#datepicker').datepicker({
+        weekStart: 1,
+        daysOfWeekHighlighted: "6,0",
+        autoclose: true,
+        todayHighlight: true,
+    });
+
     // :: 4.0 SCROLL LINK ACTIVE CODE
     var scrollLink = $('.scroll');
 
