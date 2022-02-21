@@ -152,7 +152,7 @@
                                         <img src="assets/img/logo/dianova-logo.png" alt="">
                                     </a>
                                 </div>
-                                <h4>Book Home Collection</h4>
+                                <h4>Quick Links</h4>
                                 <p>You may either book your appointment online by filling a simple online form.</p>
                                 <!-- <div class="popup-contact">
                                     <h3>Book Scanning <a href="tel:+914812303722">0481 2303722</a></h3>
@@ -198,20 +198,25 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="col-12 col-md-12">
-                                                                            <div class="form-group">
-                                                                                <select name="" id="">
-                                                                                    <option value="">Select City</option>
-                                                                                    <option value="">Calicut</option>
-                                                                                    <option value="">Malappuram</option>
-                                                                                    <option value="">Kannur</option>
-                                                                                    <option value="">Wayanad</option>
-                                                                                </select>
-                                                                            </div>
+                                                                    <div class="form-group">
+                                                                        <select name="" id="">
+                                                                            <option value="">Select City</option>
+                                                                            <option value="">Calicut</option>
+                                                                            <option value="">Malappuram</option>
+                                                                            <option value="">Kannur</option>
+                                                                            <option value="">Wayanad</option>
+                                                                        </select>
+                                                                    </div>
                                                                 </div>
                                                                 <div class="col-12 col-md-12">
                                                                     <div class="form-group">
                                                                         <div class="datepicker">
-                                                                            <input class="date_icon form-control" data-date-format="dd/mm/yyyy" id="datepicker" onkeypress="return false" name="arriving" placeholder="05/01/2022" required>
+                                                                            <input class="date_icon form-control"
+                                                                                data-date-format="dd/mm/yyyy"
+                                                                                id="datepicker"
+                                                                                onkeypress="return false"
+                                                                                name="arriving" placeholder="05/01/2022"
+                                                                                required>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -238,5 +243,104 @@
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+<!--====== New  popup area Start ======-->
+<div class="modal fade new-model" id="exampleModalnew" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog log-sign" role="document">
+        <div class="col-lg-12">
+            <div class="modal-content">
+                <div class="popup-body">
+                    <button type="button" class="close" data-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i></button>
+                    <div class="onload-left">
+                        <div class="modal-logo">
+                            <a href="index.php"><img src="assets/img/logo/dianova-logo.png" alt=""></a>
+                        </div>
+                        <div class="modal-links-area">
+                            <h4>Quick Links</h4>
+                            <div class="inner-links d-flex justify-content-between align-items-ceter flex-wrap">
+                                <div class="link-box">
+                                    <div class="icon">
+                                        <img src="assets/img/popup/corona.png" alt="">
+                                    </div>
+                                    <div class="name">
+                                        <a href="covid-test.php">Covid Test Booking</a>
+                                    </div>
+                                </div>
+                                <div class="link-box">
+                                    <div class="icon">
+                                        <img src="assets/img/popup/home-collection.png" alt="">
+                                    </div>
+                                    <div class="name">
+                                        <a href="home-collection.php">Book Home Collection</a>
+                                    </div>
+                                </div>
+                                <div class="link-box">
+                                    <div class="icon">
+                                        <img src="assets/img/popup/health-package.png" alt="">
+                                    </div>
+                                    <div class="name">
+                                        <a href="health-package.php">Health Packages Details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="onload-right">
+                        <h3>Book Now</h3>
+                        <form action="">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Name" required>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Phone" required>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" placeholder="Email" required>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <select name="" id="" class="form-control">
+                                            <option value="">Select City</option>
+                                            <option value="">Calicut</option>
+                                            <option value="">Malappuram</option>
+                                            <option value="">Kannur</option>
+                                            <option value="">Wayanad</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <div class="datepicker">
+                                            <input class="date_icon form-control" data-date-format="dd/mm/yyyy" id="datepicker2"
+                                                onkeypress="return false" name="arriving" placeholder="05/01/2022" required>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <button type="submit" class="btn btn-primary btn-block btn-new-modal">Submit</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    </div>
+                </div>
+                <!-- <div class="modal-header">
+                                    <a href="#" class="download-close" data-dismiss="modal"
+                                        aria-label="Close"><span>X</span></a>
+                                </div> -->
+                
+        </div>
+
     </div>
 </div>

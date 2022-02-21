@@ -1,6 +1,6 @@
 <!--====== Side Button Call BAck Start ======-->
 <div class="call-back-btn">
-    <a href="#" data-toggle="modal" data-target="#exampleModal0">Request Call Back</a>
+    <a href="#" data-toggle="modal" data-target="#exampleModalnew">Book Now</a>
 </div>
 
 <div class="social-icons-sidebar">

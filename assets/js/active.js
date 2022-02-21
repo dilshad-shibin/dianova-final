@@ -83,12 +83,19 @@
     //Auto popup
     $(document).ready(function() {
         setTimeout(function() {
-            $("#exampleModal10").modal('show');
+            $("#exampleModalnew").modal('show');
         }, 5000);
     });
 
     //date picker
     $('#datepicker').datepicker({
+        weekStart: 1,
+        daysOfWeekHighlighted: "6,0",
+        autoclose: true,
+        todayHighlight: true,
+    });
+
+    $('#datepicker2').datepicker({
         weekStart: 1,
         daysOfWeekHighlighted: "6,0",
         autoclose: true,
@@ -207,6 +214,31 @@
         dots: true,
         smartSpeed: 2000,
         autoplay: false,
+        autoplayTimeout: 5000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 1
+            },
+            768: {
+                items: 1
+            },
+            992: {
+                items: 1
+            }
+        }
+    });
+
+    // :: 8.0 Contact SLIDER ACTIVE CODE
+    $('.contact-slider.owl-carousel').owlCarousel({
+        loop: true,
+        margin: 100,
+        nav: false,
+        dots: true,
+        smartSpeed: 2000,
+        autoplay: true,
         autoplayTimeout: 5000,
         responsive: {
             0: {

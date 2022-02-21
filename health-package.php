@@ -47,11 +47,11 @@
                     <div  class="col-lg-4 col-md-6 col-12">
                         <div class="pg-box pg-box-1 mb-30">
                             <div class="pg-box-inner">
-                                <span>Senior</span>
-                                <h2>Health Checkup</h2>
+                                <span>Wellness</span>
+                                <h2>Package For All</h2>
                                 <p>A basic health check designed for senior citizens to test problems related to old age.</p>
                                 <div class="package-btn">
-                                    <a href="senior-health-package-details.php">View Package</a>
+                                    <a href="wellness-package.php">View Package</a>
                                 </div>
                             </div>
                         </div>
@@ -59,11 +59,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="pg-box pg-box-2 mb-30">
                             <div class="pg-box-inner">
-                                <span>Women</span>
-                                <h2>Health Checkup</h2>
+                                <span>Smart </span>
+                                <h2>Women Package</h2>
                                 <p>Some special exams and screenings, for women, for early detection and early cure.</p>
                                 <div class="package-btn">
-                                    <a href="senior-health-package-details.php">View Package</a>
+                                    <a href="smart-women-package.php">View Package</a>
                                 </div>
                             </div>
                         </div>
@@ -71,11 +71,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="pg-box pg-box-3 mb-30">
                             <div class="pg-box-inner">
-                                <span>Healthy Man</span>
-                                <h2>Basic Package</h2>
+                                <span>Smart </span>
+                                <h2>Men Package</h2>
                                 <p>A basic health checkup specifically designed to detect the health issues of men.</p>
                                 <div class="package-btn">
-                                    <a href="senior-health-package-details.php">View Package</a>
+                                    <a href="smart-men-package.php">View Package</a>
                                 </div>
                             </div>
                         </div>
@@ -84,11 +84,11 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="pg-box pg-box-4 mb-30">
                             <div class="pg-box-inner">
-                                <span>Covid Test</span>
-                                <h2>Basic Package</h2>
+                                <span>Diabetic</span>
+                                <h2>Care Package</h2>
                                 <p>This package offers the basic tests to confirm whether a person is COVID positive or not.</p>
                                 <div class="package-btn">
-                                    <a href="#">View Package</a>
+                                    <a href="diabetic-care.php">View Package</a>
                                 </div>
                             </div>
                         </div>
@@ -97,11 +97,24 @@
                     <div class="col-lg-4 col-md-6 col-12">
                         <div class="pg-box pg-box-2 mb-30">
                             <div class="pg-box-inner">
-                                <span>General</span>
-                                <h2>Basic Package</h2>
+                                <span>Women</span>
+                                <h2>Health Package</h2>
                                 <p>It is a full body check up package that includes the fundamental tests to screen your health status.</p>
                                 <div class="package-btn">
-                                    <a href="senior-health-package-details.php">View Package</a>
+                                    <a href="women-health-package.php">View Package</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="pg-box pg-box-3 mb-30">
+                            <div class="pg-box-inner">
+                                <span>Men </span>
+                                <h2>Health Package</h2>
+                                <p>A basic health checkup specifically designed to detect the health issues of men.</p>
+                                <div class="package-btn">
+                                    <a href="men-health-package.php">View Package</a>
                                 </div>
                             </div>
                         </div>

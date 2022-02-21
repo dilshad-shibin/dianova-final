@@ -167,8 +167,8 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div class="team-details">
-                            <h3>Dr. Sruthi Thomas</h3>
-                            <p>Mbbs.Md</p>
+                            <h3>Dr. Leah Thomas</h3>
+                            <p>MBBS, MD</p>
                             <span>Microbiologist</span>
                         </div>
                     </div>
@@ -181,9 +181,9 @@
                     </div>
                     <div class="col-lg-3">
                         <div class="team-details pl-28">
-                            <h3>Dr. Surya A Krishnan</h3>
-                            <p>Mbbs.Dcp</p>
-                            <span>Pathologist</span>
+                            <h3>Joji Joseph </h3>
+                            <p>MSc</p>
+                            <span>Medical biochemistry</span>
                         </div>
                     </div>
                     <div class="col-lg-3">
@@ -201,6 +201,13 @@
                             <h3>Dr. Tiju Chacko</h3>
                             <p>MSc.Phd</p>
                             <span>Molecular Virologist</span>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="team-details pl-28">
+                            <h3>Anish Joseph</h3>
+                            <p>MSc </p>
+                            <span>Medical Biochemistry </span>
                         </div>
                     </div>
                 </div>

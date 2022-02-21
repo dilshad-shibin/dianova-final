@@ -27,7 +27,10 @@
 :: 25.0 CAREERS PAGE AREA CSS
 :: 26.0 NEW BANNER AREA CSS
 :: 27.0 CALL BACJK BTN AREA CSS
+:: 28.0 Covid Book Page  CSS
 ****************************** */
+
+
 
 /* ******************************
 :: 1.0 WEB FONTS
@@ -1429,7 +1432,7 @@ footer{
 .pg-box-inner h2{
     color: #32368f;
     font-weight: 700;
-    font-size: 35px;
+    font-size: 32px;
     margin-bottom: 12px;
 }
 
@@ -1484,7 +1487,7 @@ footer{
     background-position: center;
     height: 530px;
     position: absolute;
-    bottom: 0;
+    bottom: -10px;
     left: 0;
     width: 100%;
 }
@@ -1498,9 +1501,9 @@ footer{
 }
 
 .sample-left-bg{
-    background-image: url(../img/bg/sample-collection.png);
-    width: 592px;
-    height: 620px;
+    /* background-image: url(../img/bg/sample-collection.png); */
+    /* width: 592px;
+    height: 620px; */
     position: absolute;
     top: -165px;
     bottom: 0;
@@ -1770,6 +1773,33 @@ footer{
     bottom: 0;
 }
 
+.contact-slider{
+    max-width: 660px;
+}
+
+.contact-slider .owl-dots{
+    position: relative;
+    top: 20px;
+    padding-left: 8px;
+}
+
+.contact-slider .owl-dots button{
+    width: 12px;
+    height: 12px;
+    border-radius: 50px;
+    border: 1px solid #fff;
+    background-color: transparent !important;
+    margin-right: 8px;
+}
+
+.contact-slider .owl-dots button.active{
+    background-color: #fff !important;
+}
+
+.contact-slider .owl-dots button:hover{
+    background-color: #fff;
+}
+
 /* ******************************
 :: 18.0 ABOUT PAGE AREA CSS
 ****************************** */
@@ -1797,6 +1827,7 @@ footer{
 /* About content area */
 .about-content-area{
     position: relative;
+    background-color: #f0f4fb;
 }
 
 .content-area p{
@@ -1818,6 +1849,7 @@ footer{
     padding: 180px 0;
     position: relative;
     overflow: hidden;
+    display: none;
 }
 
 .count-bg-bottom{
@@ -3283,14 +3315,14 @@ footer{
     border-radius: 4px;
     z-index: 50;
     top: 30%;
-    right: -72px;
+    right: -42px;
     display: flex;
     padding: 15px 20px 15px 20px;
     transform: rotate(-90deg);
     text-align: center;
     line-height: 1.5;
     transition: all .3s ease;
-    letter-spacing: 1px;
+    letter-spacing: 3px;
 }
 
 .call-back-btn a:hover{
@@ -3303,6 +3335,7 @@ footer{
     position: fixed;
     top: 48%;
     display: none;
+    z-index: 99;
 }
 
 .social-sidebar a {
@@ -3412,4 +3445,285 @@ footer{
 
 .popupleft-content .popup-logo a img{
     max-width: 150px;
+}
+
+/* new edits */
+.new-model .modal-dialog{
+    max-width: 800px !important;
+}
+
+.new-model .modal-content{
+    border: 0;
+    padding: 0;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.popup-body{
+    position: relative;
+    display: flex;
+}
+
+.popup-body button.close{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 35px;
+    height: 35px;
+    background: #fff;
+    color: #000;
+    border-radius: 50%;
+    line-height: 27px;
+    font-size: 14px;
+    padding: 0;
+    outline: none;
+    z-index: 1;
+}
+
+.popup-body .onload-left{
+    width: 50%;
+    position: relative;
+    padding: 45px 20px;
+    text-align: center;
+    background-color: #f58220;
+    display: flex;
+    align-items: center;
+}
+
+.popup-body .onload-right{
+    width: 50%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px 40px;
+}
+
+.modal-logo{
+    background: #fff;
+    padding: 10px;
+    max-width: 170px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    display: none;
+}
+
+.modal-links-area h4{
+    color: #fff;
+    position: relative;
+    font-size: 32px;
+    margin-bottom: 36px;
+}
+
+.modal-links-area h4::before{
+    position: absolute;
+    content: "";
+    background-color: #fff;
+    left: 50%;
+    bottom: -12px;
+    transform: translate(-50%,-50%);
+    height: 3px;
+    width: 100px;
+}
+
+.inner-links .link-box{
+    background-color: #fff;
+    padding: 12px 5px;
+    flex: 0 0 32%;
+}
+
+.inner-links .link-box .icon img{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+.inner-links .link-box .name{
+    line-height: 0;
+}
+
+.inner-links .link-box .name a{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.inner-links .link-box:hover a{
+    color: #f58220;
+    text-decoration: underline;
+} 
+
+.onload-right .form-group .datepicker{
+    position: relative;
+}
+
+.onload-right .form-group .datepicker:after{
+    content: "\f073";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: #999;
+    position: absolute;
+    right: 12px;
+    top: 9px;
+    z-index: 1;
+}
+
+.onload-right .form-group .datepicker input{
+    position: relative;
+    color: #999;
+    resize: none;
+    font-weight: 300;
+    border: 0.5px solid #ccc;
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    height: 42px;
+    width: 100%;
+    padding: 0 20px;
+    border-radius: 3px;
+    z-index: 9;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.btn-new-modal{
+    background-color: #f58220;
+    height: 42px;
+    border: none;
+    transition: all .3s ease;
+}
+
+.btn-new-modal:hover{
+    background-color: #111359;
+    color: #fff;
+}
+
+.onload-right h3{
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: #193d6f;
+    position: relative;
+}
+
+.onload-right h3::before{
+    position: absolute;
+    content: '';
+    height: 2px;
+    width: 130px;
+    left: 22%;
+    transform: translateX(-50%);
+    bottom: -2px;
+    background: linear-gradient(to right, #f58220 0%, transparent 100%);
+    z-index: 99;
+}
+
+.count-area{
+    display: none !important;
+}
+
+/* ******************************
+:: 28.0 Covid Book Page  CSS
+****************************** */
+.appointment-area {
+    padding: 100px 0 85px;
+}
+
+.appointment-form-two {
+    position: relative;
+    z-index: 2;
+    background-color: #f3f5f8;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.appointment-image {
+    width: 38%;
+    background-size: cover;
+    background-position: top center;
+}
+
+.form-wrap {
+    width: 62%;
+    padding: 125px 70px 95px;
+}
+
+.section-heading {
+    max-width: 65%;
+}
+
+.section-heading .title {
+    text-transform: uppercase;
+    font-size: 28px;
+    margin-bottom: 25px;
+    color: #535353;
+    position: relative;
+    font-weight: 700;
+    margin-top: 8px;
+}
+
+.section-heading .tagline {
+    font-size: 18px;
+    font-weight: 500;
+    color: #f58220;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.appointment-form-two .input-field {
+    margin-bottom: 30px;
+}
+
+.appointment-form-two input,
+.appointment-form-two select {
+    background-color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    color: #535353;
+    width: 100%;
+    height: 65px;
+    border: 1px solid transparent;
+    line-height: 1.4;
+    padding: 0 30px;
+    transition: all .3s ease-in-out;
+}
+
+.appointment-form-two .apt-btn {
+    width: 100%;
+    height: 65px;
+    padding: 0 10px;
+    text-align: center;
+    border-radius: 35px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.2;
+    background-color: #f58220;
+    color: #fff;
+    transition: all .3s;
+    border: none;
+}
+
+.more-btn a{
+    background: #f58220;
+    color: #fff;
+    letter-spacing: 1px;
+    font-weight: 500;
+    padding: 25px 80px !important;
+    text-transform: uppercase;
+    font-size: 18px;
+    transition: all .3s ease;
+}
+
+.more-btn a:hover{
+    background-color: #111359;
+}
+
+.more-btn{
+    margin-top: 52px;
 }
