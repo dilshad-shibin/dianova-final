@@ -259,6 +259,7 @@
                         </div>
                         <div class="modal-links-area">
                             <h4>Quick Links</h4>
+                            <p>You may either book your appointment online by filling a simple online form.</p>
                             <div class="inner-links d-flex justify-content-between align-items-ceter flex-wrap">
                                 <div class="link-box">
                                     <div class="icon">

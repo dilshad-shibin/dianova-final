@@ -1576,4 +1576,7 @@
     .more-btn a{
         padding: 18px 60px !important;
     }
+    .modal-links-area p{
+        font-size: 15px;
+    }
 }

@@ -3512,7 +3512,13 @@ footer{
     color: #fff;
     position: relative;
     font-size: 32px;
-    margin-bottom: 36px;
+    margin-bottom: 20px;
+}
+
+.modal-links-area p{
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 16px;
 }
 
 .modal-links-area h4::before{
