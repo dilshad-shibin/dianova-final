@@ -24,11 +24,57 @@
                     <li class="nav-item">
                         <a href="about.php" class="nav-link">About us</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="services.php">Services</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-2" role="button" data-toggle="dropdown">
+                            Services
+                        </a>
+                        <div class="dropdown-menu mega-menu blog-menu blog-megamenu px-3 py-md-3">
+                            <div class="row">
+                                <div class="col-lg-6 flex-1200">
+                                    <ul class="single-menu">
+                                        <li><a class="dropdown-item" href="biochemistry.php">Biochemistry</a></li>
+                                        <li><a class="dropdown-item" href="cytopathology.php">Cytopathology</a></li>
+                                        <li><a class="dropdown-item" href="doppler-ultrasound.php">Doppler Ultrasound</a></li>
+                                        <li><a class="dropdown-item" href="serology.php">Serology</a></li>
+                                        <li><a class="dropdown-item" href="radiology.php">Radiology</a></li>
+                                        <li><a class="dropdown-item" href="prenatal-screening.php">Prenatal Screening</a></li>
+                                        <li><a class="dropdown-item" href="microbiology.php">Microbiology</a></li>
+                                        <li><a class="dropdown-item" href="endocrinology.php">Endocrinology</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-6 flex-1200">
+                                    <ul class="single-menu">
+                                        <li><a class="dropdown-item" href="allergy-profiles.php">Allergy Profiles </a></li>
+                                        <li><a class="dropdown-item" href="imaging-ultrasound-scanning.php">Imaging (Advanced 4D)</a></li>
+                                        <li><a class="dropdown-item" href="histopathology.php">Histopathology</a></li>
+                                        <li><a class="dropdown-item" href="clinical-pathology.php">Clinical Pathology</a></li>
+                                        <li><a class="dropdown-item" href="hematology.php">Hematology </a></li>
+                                        <li><a class="dropdown-item" href="clinical-chemistry.php">Clinical Chemistry </a></li>
+                                        <li><a class="dropdown-item" href="immunoassay.php">Immunoassay </a></li>
+                                        <li><a class="dropdown-item" href="molecular-biology.php">Molecular Biology </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="health-package.php">Packages</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-2" role="button" data-toggle="dropdown">
+                            Packages
+                        </a>
+                        <div class="dropdown-menu mega-menu blog-menu px-3 py-md-3">
+                            <div class="row">
+                                <div class="col-12">
+                                    <ul class="single-menu">
+                                        <li><a class="dropdown-item" href="wellness-package.php">Wellness Package For All</a></li>
+                                        <li><a class="dropdown-item" href="smart-women-package.php">Smart Women Package</a></li>
+                                        <li><a class="dropdown-item" href="smart-men-package.php">Smart Men Package</a></li>
+                                        <li><a class="dropdown-item" href="diabetic-care.php">Diabetic Care Package</a></li>
+                                        <li><a class="dropdown-item" href="women-health-package.php">Women Health Package</a></li>
+                                        <li><a class="dropdown-item" href="men-health-package.php">Men Health Package</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="specialities.php">Specialities</a>
