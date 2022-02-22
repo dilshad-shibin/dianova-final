@@ -2646,6 +2646,33 @@ footer{
     margin-right: 5px;
 }
 
+.branch-head{
+    margin-bottom: 50px;
+    max-width: 800px;
+}
+
+.branch-head h3{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #191b16;
+}
+
+.branch-head p{
+    color: #444444;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.covid-col{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 100px;
+}
+
+.covid-col2{
+    padding-left: 100px;
+}
 /* covid testing area */
 .covid-test{
     padding: 90px 0 150px;
