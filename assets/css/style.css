@@ -2667,11 +2667,11 @@ footer{
 .covid-col{
     display: flex;
     justify-content: flex-end;
-    padding-right: 100px;
+    padding-right: 50px;
 }
 
 .covid-col2{
-    padding-left: 100px;
+    padding-left: 50px;
 }
 /* covid testing area */
 .covid-test{

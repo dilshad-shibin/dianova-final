@@ -1582,6 +1582,9 @@
     .covid-head h2{
         font-size: 40px;
     }
+    .covid-col{
+        padding-right: 88px;
+    }
     .covid-col2 {
         padding-left: 0;
     }
