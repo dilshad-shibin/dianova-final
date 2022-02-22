@@ -1588,4 +1588,13 @@
     .covid-col2 {
         padding-left: 0;
     }
+    .mega-menu .single-menu li:last-child{
+        margin-left: 0px;
+        background: transparent;
+        max-width: inherit;
+        padding: 0px !important;
+    }
+    .mega-menu .single-menu li:last-child a{
+        padding: 0 !important;
+    }
 }
