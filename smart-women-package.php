@@ -44,14 +44,14 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="pg-content">
-                                    <h3>Smart Women Package(47 tests)</h3>
+                                    <h3>Smart Women Package(41 tests)</h3>
                                     <div class="star">
                                         <img src="assets/img/stras.png" alt="">
                                     </div>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quia in voluptatem ea at quo omnis corporis temporibus velit odio.</p>
                                     <div class="rate">
-                                        <p class="org">MRP: 4740/-</p>
-                                        <p class="package-price">Package Price - 2,999/- <span>(Savings 1,739/-)</span></p> 
+                                        <p class="org">MRP: 1730/-</p>
+                                        <p class="package-price">Package Price - 1,250/- <span>(Savings 480/-)</span></p> 
                                     </div>
                                     <div class="btn-package">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
@@ -197,6 +197,21 @@
                                                     </h2>
                                                 </div>
                                                 <div id="collapseSeven" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseNine">
+                                                          Calcium (1)
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseNine" class="collapse" data-parent="#dianova-accordion">
                                                     <div class="card-body"> 
                                                         <p>Lorem ipsum simple</p>
                                                     </div>

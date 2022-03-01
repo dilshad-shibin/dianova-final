@@ -460,8 +460,8 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="pg-box pg-box-1">
-                            <div class="pg-box-inner">
+                        <div class="pg-box pg-main-box pg-box-01">
+                            <div class="pg-box-inner pg-box-inner-main">
                                 <span>Wellness</span>
                                 <h2>Package For All</h2>
                                 <p>A basic health check designed for senior citizens to test problems related to old age.</p>
@@ -472,8 +472,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="pg-box pg-box-2">
-                            <div class="pg-box-inner">
+                        <div class="pg-box pg-main-box pg-box-02">
+                            <div class="pg-box-inner pg-box-inner-main">
                                 <span>Smart</span>
                                 <h2>Women Package</h2>
                                 <p>Some special exams and screenings, for women to detect problems early.</p>
@@ -484,8 +484,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="pg-box pg-box-3">
-                            <div class="pg-box-inner">
+                        <div class="pg-box pg-main-box pg-box-03">
+                            <div class="pg-box-inner pg-box-inner-main">
                                 <span>Smart</span>
                                 <h2>Men Package</h2>
                                 <p>A basic health checkup specifically designed to detect the health issues of men.</p>

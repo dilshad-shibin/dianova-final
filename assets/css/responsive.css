@@ -1597,4 +1597,8 @@
     .mega-menu .single-menu li:last-child a{
         padding: 0 !important;
     }
+    .bread-head h1.small-head {
+        font-size: 32px;
+        max-width: 550px;
+    }
 }

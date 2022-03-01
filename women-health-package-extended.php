@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Women Health Package</h1>
+                            <h1 class="small-head">Women Health Package - Extended</h1>
                         </div>
                     </div>
                 </div>
@@ -44,14 +44,14 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="pg-content">
-                                    <h3>Comprehensive Health Check Package For Women(54 tests)</h3>
+                                    <h3>Comprehensive Health Check Package For Women -  Extended (55 tests)</h3>
                                     <div class="star">
                                         <img src="assets/img/stras.png" alt="">
                                     </div>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quia in voluptatem ea at quo omnis corporis temporibus velit odio.</p>
                                     <div class="rate">
-                                        <p class="org">MRP: 4740/-</p>
-                                        <p class="package-price">Package Price - 2,999/- <span>(Savings 1,739/-)</span></p> 
+                                        <p class="org">MRP: 6655/-</p>
+                                        <p class="package-price">Package Price - 4900/- <span>(Savings 1755/-)</span></p> 
                                     </div>
                                     <div class="btn-package">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
@@ -177,7 +177,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSix">
-                                                          Uric Acid (1)
+                                                          Uric Acid (3)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -207,7 +207,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseEight">
-                                                          PSA (1)
+                                                          TFT (1)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -218,11 +218,11 @@
                                                 </div>
                                         </div>
 
-                                        <div class="card my-2">
+                                        <!-- <div class="card my-2">
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseNine">
-                                                          Gama GT(1)
+                                                          Testosteron(1)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -231,7 +231,7 @@
                                                         <p>Lorem ipsum simple</p>
                                                     </div>
                                                 </div>
-                                        </div>
+                                        </div> -->
 
                                         <div class="card my-2">
                                                 <div class="card-header">
@@ -252,7 +252,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse11">
-                                                          High Sensitive CRF (1)
+                                                          Iron Deficiency (1)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -272,6 +272,111 @@
                                                     </h2>
                                                 </div>
                                                 <div id="collapse12" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse13">
+                                                          Calcium
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapse13" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse14">
+                                                          Phosphorus
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapse14" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse15">
+                                                          Total Iron Binding Capacity  
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapse15" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse16">
+                                                          Transferin Saturation
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapse16" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse17">
+                                                          Ferritin
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapse17" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse18">
+                                                         Vitamin B12
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapse18" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse19">
+                                                          Folicacid
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapse19" class="collapse" data-parent="#dianova-accordion">
                                                     <div class="card-body"> 
                                                         <p>Lorem ipsum simple</p>
                                                     </div>

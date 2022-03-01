@@ -69,7 +69,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="pg-box pg-box-3 mb-30">
+                        <div class="pg-box pg-box-1 mb-30">
                             <div class="pg-box-inner">
                                 <span>Smart </span>
                                 <h2>Men Package</h2>
@@ -82,7 +82,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="pg-box pg-box-4 mb-30">
+                        <div class="pg-box pg-box-2 mb-30">
                             <div class="pg-box-inner">
                                 <span>Diabetic</span>
                                 <h2>Care Package</h2>
@@ -95,7 +95,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="pg-box pg-box-2 mb-30">
+                        <div class="pg-box pg-box-1 mb-30">
                             <div class="pg-box-inner">
                                 <span>Women</span>
                                 <h2>Health Package</h2>
@@ -108,13 +108,65 @@
                     </div>
 
                     <div class="col-lg-4 col-md-6 col-12">
-                        <div class="pg-box pg-box-3 mb-30">
+                        <div class="pg-box pg-box-2 mb-30">
                             <div class="pg-box-inner">
                                 <span>Men </span>
                                 <h2>Health Package</h2>
                                 <p>A basic health checkup specifically designed to detect the health issues of men.</p>
                                 <div class="package-btn">
                                     <a href="men-health-package.php">View Package</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="pg-box pg-box-1 mb-30">
+                            <div class="pg-box-inner">
+                                <span>Diabetic Care </span>
+                                <h2>Package - Extended</h2>
+                                <p>A basic health checkup specifically designed to detect the health issues of men.</p>
+                                <div class="package-btn">
+                                    <a href="diabetic-care-package-extended.php">View Package</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="pg-box pg-box-2 mb-30">
+                            <div class="pg-box-inner">
+                                <span>Men - Extended </span>
+                                <h2>Health Check Package</h2>
+                                <p>A basic health checkup specifically designed to detect the health issues of men.</p>
+                                <div class="package-btn">
+                                    <a href="men-health-package-extended.php">View Package</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="pg-box pg-box-1 mb-30">
+                            <div class="pg-box-inner">
+                                <span>women - Extended </span>
+                                <h2>Health Check Package</h2>
+                                <p>A basic health checkup specifically designed to detect the health issues of men.</p>
+                                <div class="package-btn">
+                                    <a href="women-health-package-extended.php">View Package</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12">
+                        <div class="pg-box pg-box-2 mb-30">
+                            <div class="pg-box-inner">
+                                <span>Post Covid </span>
+                                <h2>Blood Test Packages</h2>
+                                <p>A basic health checkup specifically designed to detect the health issues of men.</p>
+                                <div class="package-btn">
+                                    <a href="covid-blood-test-package.php">View Package</a>
                                 </div>
                             </div>
                         </div>

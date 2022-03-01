@@ -44,14 +44,14 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="pg-content">
-                                    <h3>Wellness Package For All (48 tests)</h3>
+                                    <h3>Wellness Package For All (39 tests)</h3>
                                     <div class="star">
                                         <img src="assets/img/stras.png" alt="">
                                     </div>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quia in voluptatem ea at quo omnis corporis temporibus velit odio.</p>
                                     <div class="rate">
-                                        <p class="org">MRP: 4740/-</p>
-                                        <p class="package-price">Package Price - 2,999/- <span>(Savings 1,739/-)</span></p> 
+                                        <p class="org">MRP: 1260/-</p>
+                                        <p class="package-price">Package Price - 850/- <span>(Savings 410/-)</span></p> 
                                     </div>
                                     <div class="btn-package">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
@@ -84,14 +84,17 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn" type="button" data-toggle="collapse" data-target="#collapseOne">
-                                                            Blood Sugar Diabetes (1)
+                                                        Blood Sugar - Diabetes
                                                         </button>
                                                     </h2>
                                                 </div>
                                                 <div id="collapseOne" class="collapse show" data-parent="#dianova-accordion">
                                                     <div class="card-body">
-                                                        <p>Average Blood Glucose (Abg)</p>
-                                                        <p>Hba1c</p>
+                                                        <p>Lorem ipsum dolor sit amet.</p>
+                                                        <p>Lorem ipsum dolor sit amet.</p>
+                                                        <p>Lorem ipsum dolor sit amet.</p>
+                                                        <p>Lorem ipsum dolor sit.</p>
+                                                        <p>Lorem ipsum dolor </p>
                                                     </div>
                                                 </div>
                                         </div>

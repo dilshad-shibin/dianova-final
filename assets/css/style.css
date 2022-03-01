@@ -1396,32 +1396,60 @@ footer{
 .pg-box{
     position: relative;
     overflow: hidden;
+    height: auto;
+    padding: 50px 25px;
+}
+
+.pg-box-1{
+   background: #fff9ea;
+}
+
+.pg-box-2{
+    background: #e5edfb;
+}
+
+.pg-main-box{
+    position: relative;
+    overflow: hidden;
     background-position: center;
     background-size: cover;
     height: 704px;
 }
 
-.pg-box-1{
+.pg-box-01{
     background-image: url(../img/packages/1.png);
 }
-
-.pg-box-2{
+.pg-box-02{
     background-image: url(../img/packages/2.png);
 }
+.pg-box-03{
+    background-image: url(../img/packages/3.png);
+}
 
-.pg-box-3{
+.pg-box-inner{
+    position: relative;
+}
+
+.pg-box-inner-main{
+    position: absolute;
+    bottom: 70px;
+}
+
+/* .pg-box-3{
     background-image: url(../img/packages/3.png);
 }
 
 .pg-box-4{
     background-image: url(../img/packages/4.png);
-}
+} */
 
-.pg-box-inner{
+/* .pg-box-inner{
     position: absolute;
     bottom: 70px;
     padding: 0 35px;
-}
+} */
+
+
 
 .pg-box-inner span{
     color: #f58220;
@@ -1822,6 +1850,11 @@ footer{
     font-size: 65px;
     font-weight: 800;
     letter-spacing: 1px;
+}
+
+.bread-head h1.small-head{
+    font-size: 45px;
+    max-width: 550px;
 }
 
 /* About content area */
@@ -3779,7 +3812,7 @@ footer{
 }
 
 .mega-menu.blog-menu {
-    width: 250px;
+    width: 280px;
 }
 
 .dropdown:hover .mega-menu {

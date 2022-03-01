@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-12 text-left">
                         <div class="bread-head">
-                            <h1>Women Health Package</h1>
+                            <h1 class="small-head">Diabetic Care Packages - Extended</h1>
                         </div>
                     </div>
                 </div>
@@ -39,19 +39,19 @@
                         <div class="row package-inner-box align-items-center">
                             <div class="col-lg-6 p-0">
                                 <div class="img">
-                                    <img src="assets/img/package-inner/2.jpg" alt="">
+                                    <img src="assets/img/package-inner/4.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="pg-content">
-                                    <h3>Comprehensive Health Check Package For Women(54 tests)</h3>
+                                    <h3>Diabetic Care Package -Extended (43 tests)</h3>
                                     <div class="star">
                                         <img src="assets/img/stras.png" alt="">
                                     </div>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quia in voluptatem ea at quo omnis corporis temporibus velit odio.</p>
                                     <div class="rate">
-                                        <p class="org">MRP: 4740/-</p>
-                                        <p class="package-price">Package Price - 2,999/- <span>(Savings 1,739/-)</span></p> 
+                                        <p class="org">MRP: 2640/-</p>
+                                        <p class="package-price">Package Price - 1900/- <span>(Savings 740/-)</span></p> 
                                     </div>
                                     <div class="btn-package">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
@@ -84,7 +84,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn" type="button" data-toggle="collapse" data-target="#collapseOne">
-                                                            Blood Sugar Diabetes (2)
+                                                            Blood Sugar(Fasting) (1)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -99,7 +99,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo">
-                                                            Lipid Profile (7)
+                                                            Blood Sugar After Food (3)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -120,7 +120,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseThree">
-                                                            Liver Function (11)
+                                                            Lipid Profile (7)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -140,8 +140,25 @@
                                         <div class="card my-2">
                                                 <div class="card-header">
                                                     <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTen">
+                                                          Liver Function
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseTen" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Urinary Bilirubin</p>
+                                                        <p>Urine Blood</p>
+                                                        <p>Urobilinogen	</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFour">
-                                                           Urea - Kidney (3)
+                                                           Urea - Kidney (1)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -158,7 +175,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFive">
-                                                          Creatine - CBC (24)
+                                                          Creatine -  (4)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -177,7 +194,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSix">
-                                                          Uric Acid (1)
+                                                          HbA1c -  (24)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -192,7 +209,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven">
-                                                          CBC (1)
+                                                          Urine Microalbumin (1)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -207,7 +224,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseEight">
-                                                          PSA (1)
+                                                          CBC
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -222,7 +239,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseNine">
-                                                          Gama GT(1)
+                                                          Insulin
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -237,41 +254,11 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTen">
-                                                          HbA1c (1)
+                                                          C-Peptide
                                                         </button>
                                                     </h2>
                                                 </div>
                                                 <div id="collapseTen" class="collapse" data-parent="#dianova-accordion">
-                                                    <div class="card-body"> 
-                                                        <p>Lorem ipsum simple</p>
-                                                    </div>
-                                                </div>
-                                        </div>
-
-                                        <div class="card my-2">
-                                                <div class="card-header">
-                                                    <h2>
-                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse11">
-                                                          High Sensitive CRF (1)
-                                                        </button>
-                                                    </h2>
-                                                </div>
-                                                <div id="collapse11" class="collapse" data-parent="#dianova-accordion">
-                                                    <div class="card-body"> 
-                                                        <p>Lorem ipsum simple</p>
-                                                    </div>
-                                                </div>
-                                        </div>
-
-                                        <div class="card my-2">
-                                                <div class="card-header">
-                                                    <h2>
-                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapse12">
-                                                          25-OH Vitamin D3 (1)
-                                                        </button>
-                                                    </h2>
-                                                </div>
-                                                <div id="collapse12" class="collapse" data-parent="#dianova-accordion">
                                                     <div class="card-body"> 
                                                         <p>Lorem ipsum simple</p>
                                                     </div>

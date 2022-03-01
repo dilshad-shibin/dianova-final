@@ -71,6 +71,10 @@
                                         <li><a class="dropdown-item" href="diabetic-care.php">Diabetic Care Package</a></li>
                                         <li><a class="dropdown-item" href="women-health-package.php">Women Health Package</a></li>
                                         <li><a class="dropdown-item" href="men-health-package.php">Men Health Package</a></li>
+                                        <li><a class="dropdown-item" href="diabetic-care-package-extended.php">Diabetic Care Extended Package</a></li>
+                                        <li><a class="dropdown-item" href="men-health-package-extended.php">Men Health Extended Package</a></li>
+                                        <li><a class="dropdown-item" href="women-health-package-extended.php">Women Health Extended Package</a></li>
+                                        <li><a class="dropdown-item" href="covid-blood-test-package.php">Covid Blood Test Package</a></li>
                                     </ul>
                                 </div>
                             </div>

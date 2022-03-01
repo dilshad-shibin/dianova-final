@@ -50,8 +50,8 @@
                                     </div>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quia in voluptatem ea at quo omnis corporis temporibus velit odio.</p>
                                     <div class="rate">
-                                        <p class="org">MRP: 4740/-</p>
-                                        <p class="package-price">Package Price - 2,999/- <span>(Savings 1,739/-)</span></p> 
+                                        <p class="org">MRP: 1790/-</p>
+                                        <p class="package-price">Package Price - 1250/- <span>(Savings 540/-)</span></p> 
                                     </div>
                                     <div class="btn-package">
                                         <a href="#" data-toggle="modal" data-target="#exampleModal0">Book Now</a>
@@ -140,6 +140,23 @@
                                         <div class="card my-2">
                                                 <div class="card-header">
                                                     <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTen">
+                                                          Liver Function
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseTen" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Urinary Bilirubin</p>
+                                                        <p>Urine Blood</p>
+                                                        <p>Urobilinogen	</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFour">
                                                            Urea - Kidney (1)
                                                         </button>
@@ -177,7 +194,7 @@
                                                 <div class="card-header">
                                                     <h2>
                                                         <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSix">
-                                                          HbA1c - CBC (24)
+                                                          HbA1c -  (24)
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -197,6 +214,21 @@
                                                     </h2>
                                                 </div>
                                                 <div id="collapseSeven" class="collapse" data-parent="#dianova-accordion">
+                                                    <div class="card-body"> 
+                                                        <p>Lorem ipsum simple</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="card my-2">
+                                                <div class="card-header">
+                                                    <h2>
+                                                        <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseEight">
+                                                          CBC
+                                                        </button>
+                                                    </h2>
+                                                </div>
+                                                <div id="collapseEight" class="collapse" data-parent="#dianova-accordion">
                                                     <div class="card-body"> 
                                                         <p>Lorem ipsum simple</p>
                                                     </div>
