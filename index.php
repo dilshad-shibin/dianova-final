@@ -142,7 +142,7 @@
         </section>
 
         <!-- ***** Services Area Start ***** -->
-        <section class="services-area section">
+        <!-- <section class="services-area section">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-4">
@@ -154,7 +154,7 @@
                                 <div class="service-btn">
                                     <a href="services.php">View all Services</a>
                                 </div>
-                            </div><!-- first one right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="first" role="tabpanel" aria-labelledby="first-tab">
                                 <h2>Biochemistry</h2>
@@ -162,7 +162,7 @@
                                 <div class="service-btn">
                                     <a href="biochemistry.php">Read More</a>
                                 </div>
-                            </div><!-- First right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="second" role="tabpanel" aria-labelledby="second-tab">
                                 <h2>Serology</h2>
@@ -170,7 +170,7 @@
                                 <div class="service-btn">
                                     <a href="serology.php">Read More</a>
                                 </div>
-                            </div><!-- second right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="third" role="tabpanel" aria-labelledby="third-tab">
                                 <h2>Microbiology</h2>
@@ -178,7 +178,7 @@
                                 <div class="service-btn">
                                     <a href="microbiology.php">Read More</a>
                                 </div>
-                            </div><!-- third right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="forth" role="tabpanel" aria-labelledby="forth-tab">
                                 <h2>Cytopathology</h2>
@@ -186,7 +186,7 @@
                                 <div class="service-btn">
                                     <a href="cytopathology.php">Read More</a>
                                 </div>
-                            </div><!-- 4th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="fifth" role="tabpanel" aria-labelledby="fifth-tab">
                                 <h2>Radiology</h2>
@@ -194,7 +194,7 @@
                                 <div class="service-btn">
                                     <a href="radiology.php">Read More</a>
                                 </div>
-                            </div><!-- 5th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="sixth" role="tabpanel" aria-labelledby="sixth-tab">
                                 <h2>Endocrinology</h2>
@@ -202,7 +202,7 @@
                                 <div class="service-btn">
                                     <a href="endocrinology.php">Read More</a>
                                 </div>
-                            </div><!-- 6th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="seventh" role="tabpanel" aria-labelledby="seventh-tab">
                                 <h2>Doppler Ultrasound</h2>
@@ -210,7 +210,7 @@
                                 <div class="service-btn">
                                     <a href="doppler-ultrasound.php">Read More</a>
                                 </div>
-                            </div><!-- 7th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="eighth" role="tabpanel" aria-labelledby="eighth-tab">
                                 <h2>Prenetal Screening</h2>
@@ -218,7 +218,7 @@
                                 <div class="service-btn">
                                     <a href="prenatal-screening.php">Read More</a>
                                 </div>
-                            </div><!-- 8th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="nineth" role="tabpanel" aria-labelledby="nineth-tab">
                                 <h2>Allergy Profiles</h2>
@@ -226,7 +226,7 @@
                                 <div class="service-btn">
                                     <a href="allergy-profiles.php">Read More</a>
                                 </div>
-                            </div><!-- 9th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="tenth" role="tabpanel" aria-labelledby="tenth-tab">
                                 <h2>Imaging (Advanced 4D)</h2>
@@ -234,7 +234,7 @@
                                 <div class="service-btn">
                                     <a href="imaging-ultrasound-scanning.php">Read More</a>
                                 </div>
-                            </div><!-- 10th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="eleventh" role="tabpanel" aria-labelledby="eleventh-tab">
                                 <h2>Histopathology</h2>
@@ -242,7 +242,7 @@
                                 <div class="service-btn">
                                     <a href="histopathology.php">Read More</a>
                                 </div>
-                            </div><!-- 11th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="tweleve" role="tabpanel" aria-labelledby="tweleve-tab">
                                 <h2>Clinical Pathology</h2>
@@ -250,7 +250,7 @@
                                 <div class="service-btn">
                                     <a href="clinical-pathology.php">Read More</a>
                                 </div>
-                            </div><!-- 12th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="thirteenth" role="tabpanel" aria-labelledby="thirteenth-tab">
                                 <h2>Hematology</h2>
@@ -258,7 +258,7 @@
                                 <div class="service-btn">
                                     <a href="hematology.php">Read More</a>
                                 </div>
-                            </div><!-- 13th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="forteenth" role="tabpanel" aria-labelledby="forteenth-tab">
                                 <h2>Clinical Chemistry</h2>
@@ -266,7 +266,7 @@
                                 <div class="service-btn">
                                     <a href="clinical-chemistry.php">Read More</a>
                                 </div>
-                            </div><!-- 14th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="fifteenth" role="tabpanel" aria-labelledby="fifteenth-tab">
                                 <h2>Immunoassay</h2>
@@ -274,7 +274,7 @@
                                 <div class="service-btn">
                                     <a href="immunoassay.php">Read More</a>
                                 </div>
-                            </div><!-- 15th right side view -->
+                            </div>
 
                             <div class="tab-pane fade" id="sixteenth" role="tabpanel" aria-labelledby="sixteenth-tab">
                                 <h2>Molecular Biology</h2>
@@ -282,12 +282,10 @@
                                 <div class="service-btn">
                                     <a href="molecular-biology.php">Read More</a>
                                 </div>
-                            </div><!-- 16th right side view -->
+                            </div>
 
                         </div>
                     </div>
-
-
                     <div class="col-lg-8">
                         <div class="service-slider owl-carousel">
 
@@ -316,7 +314,7 @@
                                         <h3>Microbiology</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 1 -->
+                            </ul>
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
@@ -343,7 +341,7 @@
                                         <h3>Endocrinology</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 2 -->
+                            </ul>
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
@@ -370,7 +368,7 @@
                                         <h3>Allergy Profiles</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 3 -->
+                            </ul>
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
@@ -397,7 +395,7 @@
                                         <h3>Clinical Pathology</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 4 -->
+                            </ul>
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
@@ -424,7 +422,7 @@
                                         <h3>Immunoassay</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 5 -->
+                            </ul>
 
                             <ul class="single-service nav nav-tabs" id="myTab" role="tablist">
                                 <li class="nav-item service-box">
@@ -435,13 +433,292 @@
                                         <h3>Molecular Biology</h3>
                                     </a>
                                 </li>
-                            </ul><!-- Single Slider 6 -->
+                            </ul>
 
 
                         </div>
                     </div>
+                </div>
+            </div>
+        </section> -->
 
+        <!-- ***** Services Area  Copy Start ***** -->
+        <section class="services-area section">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-4">
+                        <div class="service-head tab-content">
+                            <div id="" class="tabcontent" style="display: block;">
+                                <h2>Our Services</h2>
+                                <p>With the rise in health-consciousness among the society, there has been an exponential growth in the number of diagnostic laboratories. Dianova aims to stand out among them with our quality services ensuring minimum TAT.</p>
+                                <div class="service-btn">
+                                    <a href="services.php" class="btn btn1 btn_primary">View All Services</a>
+                                </div>
+                            </div>
+                            <div id="bioChemistry" class="tabcontent">
+                                <h2>Bio Chemistry</h2>
+                                <p>Biochemistry is the branch of science that explores the chemical processes within and related to living organisms..</p>
+                                <div class="service-btn">
+                                    <a href="biochemistry.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="Serology" class="tabcontent">
+                                <h2>Serology</h2>
+                                <p>Serology is the scientific study of serum and other bodily fluids. In practice, the term usually refers to the..</p>
+                                <div class="service-btn">
+                                    <a href="serology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="microBiology" class="tabcontent">
+                                <h2>Microbiology</h2>
+                                <p>Microbiology, the study of microorganisms, or microbes, a diverse group of generally minute simple life-forms..</p>
+                                <div class="service-btn">
+                                    <a href="microbiology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="cytoPathology" class="tabcontent">
+                                <h2>Cytopathology</h2>
+                                <p>Cytopathology is a diagnostic technique that examines cells from various body sites to determine the cause..</p>
+                                <div class="service-btn">
+                                    <a href="cytopathology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="Radiology" class="tabcontent">
+                                <h2>Radiology</h2>
+                                <p>Radiology is a specialty that uses medical imaging to diagnose and treat diseases seen within the body..</p>
+                                <div class="service-btn">
+                                    <a href="radiology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="endoCrinology" class="tabcontent">
+                                <h2>Endocrinology</h2>
+                                <p>Endocrinology is the study of hormones. Hormones are essential for our everyday survival. They..</p>
+                                <div class="service-btn">
+                                    <a href="endocrinology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="dopplerUltrasound" class="tabcontent">
+                                <h2>Doppler Ultrasound</h2>
+                                <p>Doppler ultrasound is a noninvasive test that can be used to estimate the blood flow through your blood vessels by..</p>
+                                <div class="service-btn">
+                                    <a href="doppler-ultrasound.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="prenetalScreening" class="tabcontent">
+                                <h2>Prenetal Screening</h2>
+                                <p>Prenatal screening is a way for you to determine the chance your baby may or may not have trisomy 21..</p>
+                                <div class="service-btn">
+                                    <a href="prenetal-screening.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="allergyProfiles" class="tabcontent">
+                                <h2>Allergy Profiles</h2>
+                                <p>Keeping up with the time, we know how important it is to deliver our service quickly and accurately..</p>
+                                <div class="service-btn">
+                                    <a href="allergy-profiles.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="imagingAdvanced" class="tabcontent">
+                                <h2>Imaging (advanced 4D)</h2>
+                                <p>Like regular ultrasounds, 3D and 4D ultrasounds use sound waves to create an image of your baby..</p>
+                                <div class="service-btn">
+                                    <a href="imaging-ultrasound-scanning.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="Histopathology" class="tabcontent">
+                                <h2>Histopathology</h2>
+                                <p>Histopathology is the diagnosis and study of diseases of the tissues and involves examining tissues..</p>
+                                <div class="service-btn">
+                                    <a href="histopathology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="clinicalPathology" class="tabcontent">
+                                <h2>Clinical Pathology</h2>
+                                <p>Clinical pathology (Medical Laboratory) is a medical specialty that is concerned with the diagnosis of..</p>
+                                <div class="service-btn">
+                                    <a href="clinical-pathology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="Hematology" class="tabcontent">
+                                <h2>Hematology</h2>
+                                <p>Hematology is the science or study of blood, blood-forming organs, and blood diseases. In the medical..</p>
+                                <div class="service-btn">
+                                    <a href="hematology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="clinicalChemistry" class="tabcontent">
+                                <h2>Clinical Chemistry</h2>
+                                <p>Clinical chemistry is the area of chemistry that is generally concerned with the analysis of bodily..</p>
+                                <div class="service-btn">
+                                    <a href="clinical-chemistry.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="Immunoassay" class="tabcontent">
+                                <h2>Immunoassay</h2>
+                                <p>An immunoassay is a biochemical test that measures the presence or concentration of a macromolecule..</p>
+                                <div class="service-btn">
+                                    <a href="immunoassay.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                            <div id="molecularBiology" class="tabcontent">
+                                <h2>Molecular Biology</h2>
+                                <p>Molecular biology, the field of science concerned with studying the chemical structures and processes..</p>
+                                <div class="service-btn">
+                                    <a href="molecular-biology.php" class="btn btn1 btn_primary">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="service-slider owl-carousel">
+                            <ul class="single-service nav nav-tabs">
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'bioChemistry')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/1.png" />
+                                        </div>
+                                        <h3>Bio Chemistry</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'Serology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/4.png" />
+                                        </div>
+                                        <h3>Serology</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'microBiology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/7.png" />
+                                        </div>
+                                        <h3>Microbiology</span></h3>
+                                    </a>
+                                </li>
+                            </ul>
 
+                            <ul class="single-service nav nav-tabs">
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'cytoPathology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/2.png" />
+                                        </div>
+                                        <h3>Cytopathology</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'Radiology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/5.png" />
+                                        </div>
+                                        <h3>Radiology</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'endoCrinology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/8.png" />
+                                        </div>
+                                        <h3>Endocrinology</span></h3>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <ul class="single-service nav nav-tabs">
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'dopplerUltrasound')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/3.png" />
+                                        </div>
+                                        <h3>Doppler Ultrasound</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'prenetalScreening')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/6.png" />
+                                        </div>
+                                        <h3>Prenetal Screening</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'allergyProfiles')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/9.png" />
+                                        </div>
+                                        <h3>Allergy Profiles</span></h3>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <!-- icon needs -->
+                            <ul class="single-service nav nav-tabs">
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'imagingAdvanced')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/2.png" />
+                                        </div>
+                                        <h3>Imaging (advanced 4D)</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'Histopathology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/5.png" />
+                                        </div>
+                                        <h3>Histopathology</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'clinicalPathology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/8.png" />
+                                        </div>
+                                        <h3>Clinical Pathology</span></h3>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <ul class="single-service nav nav-tabs">
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'Hematology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/4.png" />
+                                        </div>
+                                        <h3>Hematology</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'clinicalChemistry')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/3.png" />
+                                        </div>
+                                        <h3>Clinical Chemistry</span></h3>
+                                    </a>
+                                </li>
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'Immunoassay')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/5.png" />
+                                        </div>
+                                        <h3>Immunoassay</span></h3>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <ul class="single-service nav nav-tabs">
+                                <li class="nav-item service-box">
+                                    <a href="" class="tablinks" onmouseover="openCity(event, 'molecularBiology')">
+                                        <div class="icon">
+                                            <img src="assets/img/services/8.png" />
+                                        </div>
+                                        <h3>Molecular Biology</span></h3>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
@@ -635,6 +912,22 @@
     <!-- ***** All jQuery Plugins ***** -->
 
     <?php include('footer/script.php'); ?>
+
+    <script>
+        function openCity(evt, cityName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(cityName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
 
 </body>
 

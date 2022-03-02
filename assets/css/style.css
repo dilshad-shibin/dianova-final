@@ -1304,6 +1304,9 @@ footer{
     width: 100%;
     min-height: 225px;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .single-service .nav-item a .icon img{
@@ -3915,4 +3918,9 @@ footer{
 
 .mega-menu.blog-megamenu{
     width: 500px;
+}
+
+/* New changes for Services h/over  */
+.tabcontent {
+    display: none;
 }
