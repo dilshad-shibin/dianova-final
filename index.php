@@ -657,7 +657,7 @@
                                 <li class="nav-item service-box">
                                     <a href="" class="tablinks" onmouseover="openCity(event, 'imagingAdvanced')">
                                         <div class="icon">
-                                            <img src="assets/img/services/2.png" />
+                                            <img src="assets/img/services/10.png" />
                                         </div>
                                         <h3>Imaging (advanced 4D)</span></h3>
                                     </a>
@@ -665,7 +665,7 @@
                                 <li class="nav-item service-box">
                                     <a href="" class="tablinks" onmouseover="openCity(event, 'Histopathology')">
                                         <div class="icon">
-                                            <img src="assets/img/services/5.png" />
+                                            <img src="assets/img/services/11.png" />
                                         </div>
                                         <h3>Histopathology</span></h3>
                                     </a>
@@ -673,7 +673,7 @@
                                 <li class="nav-item service-box">
                                     <a href="" class="tablinks" onmouseover="openCity(event, 'clinicalPathology')">
                                         <div class="icon">
-                                            <img src="assets/img/services/8.png" />
+                                            <img src="assets/img/services/12.png" />
                                         </div>
                                         <h3>Clinical Pathology</span></h3>
                                     </a>
@@ -684,7 +684,7 @@
                                 <li class="nav-item service-box">
                                     <a href="" class="tablinks" onmouseover="openCity(event, 'Hematology')">
                                         <div class="icon">
-                                            <img src="assets/img/services/4.png" />
+                                            <img src="assets/img/services/13.png" />
                                         </div>
                                         <h3>Hematology</span></h3>
                                     </a>
@@ -692,7 +692,7 @@
                                 <li class="nav-item service-box">
                                     <a href="" class="tablinks" onmouseover="openCity(event, 'clinicalChemistry')">
                                         <div class="icon">
-                                            <img src="assets/img/services/3.png" />
+                                            <img src="assets/img/services/14.png" />
                                         </div>
                                         <h3>Clinical Chemistry</span></h3>
                                     </a>
@@ -700,7 +700,7 @@
                                 <li class="nav-item service-box">
                                     <a href="" class="tablinks" onmouseover="openCity(event, 'Immunoassay')">
                                         <div class="icon">
-                                            <img src="assets/img/services/5.png" />
+                                            <img src="assets/img/services/14-copy.png" />
                                         </div>
                                         <h3>Immunoassay</span></h3>
                                     </a>
@@ -711,7 +711,7 @@
                                 <li class="nav-item service-box">
                                     <a href="" class="tablinks" onmouseover="openCity(event, 'molecularBiology')">
                                         <div class="icon">
-                                            <img src="assets/img/services/8.png" />
+                                            <img src="assets/img/services/15.png" />
                                         </div>
                                         <h3>Molecular Biology</span></h3>
                                     </a>
